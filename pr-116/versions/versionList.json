@@ -6,9 +6,7 @@
     "v1.0"
   ],
   "toolbox-technical-manuals/internal-erosion-suite/breach": [
-    "v1.0"
-  ],
-  "toolbox-technical-manuals/internal-erosion-suite/concentrated-leak-erosion-cracking": [
+    "v1.1",
     "v1.0"
   ],
   "toolbox-technical-manuals/internal-erosion-suite/concentrated-leak-erosion-initiation": [
@@ -64,22 +62,10 @@
   "desktop-applications/rmc-rfa/users-guide": [
     "v1.0"
   ],
-  "desktop-applications/rmc-totalrisk/applications-guide": [
-    "v1.0"
-  ],
   "desktop-applications/rmc-totalrisk/users-guide": [
     "v1.0"
   ],
   "desktop-applications/rmc-totalrisk/verification-report": [
-    "v1.0"
-  ],
-  "web-applications/dst/users-guide": [
-    "v1.0"
-  ],
-  "web-applications/lst/users-guide": [
-    "v1.0"
-  ],
-  "web-applications/rrft/users-guide": [
     "v1.0"
   ]
 }
