@@ -54,7 +54,7 @@
       "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
       "docId": "04-hydraulic-data.mdx",
       "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure6.png",
-      "caption": "Generate Structure Hydraulic Summary."
+      "caption": "Generate structure hydraulic summary."
     },
     "figure-7": {
       "figNumber": 8,
@@ -126,7 +126,7 @@
       "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
       "docId": "05-structure-inventory-and-associated-properties.mdx",
       "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure15.png",
-      "caption": "Proposed hazard regimes compared to available experimental data (Shand et al., 2011)."
+      "caption": ""
     },
     "figure-16": {
       "figNumber": 17,
@@ -134,7 +134,7 @@
       "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
       "docId": "05-structure-inventory-and-associated-properties.mdx",
       "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure16.png",
-      "caption": "Default stability criteria for humans in LifeSim."
+      "caption": ""
     },
     "figure-17": {
       "figNumber": 18,
@@ -334,7 +334,7 @@
       "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
       "docId": "07-road-networks-destinations-and-evacuation-parameters.mdx",
       "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure42.png",
-      "caption": "Typical Modes of Vehicle Instability (Shand, Smith et al., 2011)."
+      "caption": "Typical modes of vehicle instability (Shand, Smith, et al., 2011)."
     },
     "figure-43": {
       "figNumber": 43,
@@ -702,7 +702,7 @@
       "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
       "docId": "22-appendix-g-research-on-vehicle-stability-and-driver-behavior.mdx",
       "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure86.png",
-      "caption": "Decision to Enter a Flooded Road, Threshold Curve, and Supporting Data (Low Clearance)."
+      "caption": "Decision to enter a flooded road, threshold curve, and supporting data (low clearance)."
     },
     "figure-87": {
       "figNumber": "G-4",
@@ -710,7 +710,7 @@
       "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
       "docId": "22-appendix-g-research-on-vehicle-stability-and-driver-behavior.mdx",
       "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure87.png",
-      "caption": "Decision to Enter a Flooded Road, Threshold Curve, and Supporting Data (High Clearance)."
+      "caption": "Decision to enter a flooded road, threshold curve, and supporting data (high clearance)."
     }
   },
   "tables": {
@@ -816,32 +816,38 @@
       "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
       "docId": "07-road-networks-destinations-and-evacuation-parameters.mdx"
     },
-    "table-18": {
+    "table-17-feet": {
       "tableNumber": 18,
       "parentDocId": "lifesim-technical-reference-manual-v1.0",
       "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
       "docId": "07-road-networks-destinations-and-evacuation-parameters.mdx"
     },
-    "table-19": {
+    "table-18": {
       "tableNumber": 19,
       "parentDocId": "lifesim-technical-reference-manual-v1.0",
       "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
       "docId": "07-road-networks-destinations-and-evacuation-parameters.mdx"
     },
-    "table-20": {
+    "table-19": {
       "tableNumber": 20,
       "parentDocId": "lifesim-technical-reference-manual-v1.0",
       "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
       "docId": "07-road-networks-destinations-and-evacuation-parameters.mdx"
     },
-    "table-21": {
+    "table-20": {
       "tableNumber": 21,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "07-road-networks-destinations-and-evacuation-parameters.mdx"
+    },
+    "table-21": {
+      "tableNumber": 22,
       "parentDocId": "lifesim-technical-reference-manual-v1.0",
       "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
       "docId": "10-fatality-rates.mdx"
     },
     "table-22": {
-      "tableNumber": 22,
+      "tableNumber": 23,
       "parentDocId": "lifesim-technical-reference-manual-v1.0",
       "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
       "docId": "13-uncertainty-and-sampling-methods.mdx"
@@ -1570,92 +1576,104 @@
       "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
       "docId": "21-appendix-f-engineered-construction-structural-stability.mdx"
     },
-    "Dale2004": {
+    "FEMA2009": {
       "citationNumber": 83,
       "parentDocId": "lifesim-technical-reference-manual-v1.0",
       "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
       "docId": "21-appendix-f-engineered-construction-structural-stability.mdx"
     },
-    "ClausenClark1990": {
+    "Dale2004": {
       "citationNumber": 84,
       "parentDocId": "lifesim-technical-reference-manual-v1.0",
       "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
       "docId": "21-appendix-f-engineered-construction-structural-stability.mdx"
     },
-    "Harrison1864": {
+    "ClausenClark1990": {
       "citationNumber": 85,
       "parentDocId": "lifesim-technical-reference-manual-v1.0",
       "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
       "docId": "21-appendix-f-engineered-construction-structural-stability.mdx"
     },
-    "Black1975": {
+    "Harrison1864": {
       "citationNumber": 86,
       "parentDocId": "lifesim-technical-reference-manual-v1.0",
       "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
       "docId": "21-appendix-f-engineered-construction-structural-stability.mdx"
     },
-    "Sangrey1975": {
+    "RESCDAM2000": {
       "citationNumber": 87,
       "parentDocId": "lifesim-technical-reference-manual-v1.0",
       "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
       "docId": "21-appendix-f-engineered-construction-structural-stability.mdx"
     },
-    "Smith2017": {
+    "Black1975": {
       "citationNumber": 88,
       "parentDocId": "lifesim-technical-reference-manual-v1.0",
       "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
-      "docId": "22-appendix-g-research-on-vehicle-stability-and-driver-behavior.mdx"
+      "docId": "21-appendix-f-engineered-construction-structural-stability.mdx"
     },
-    "BonhamHattersley1967": {
+    "Sangrey1975": {
       "citationNumber": 89,
       "parentDocId": "lifesim-technical-reference-manual-v1.0",
       "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
-      "docId": "22-appendix-g-research-on-vehicle-stability-and-driver-behavior.mdx"
+      "docId": "21-appendix-f-engineered-construction-structural-stability.mdx"
     },
-    "GordonStone1973": {
+    "Smith2017": {
       "citationNumber": 90,
       "parentDocId": "lifesim-technical-reference-manual-v1.0",
       "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
       "docId": "22-appendix-g-research-on-vehicle-stability-and-driver-behavior.mdx"
     },
-    "KellerMitsch1993": {
+    "BonhamHattersley1967": {
       "citationNumber": 91,
       "parentDocId": "lifesim-technical-reference-manual-v1.0",
       "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
       "docId": "22-appendix-g-research-on-vehicle-stability-and-driver-behavior.mdx"
     },
-    "Shu2011": {
+    "GordonStone1973": {
       "citationNumber": 92,
       "parentDocId": "lifesim-technical-reference-manual-v1.0",
       "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
       "docId": "22-appendix-g-research-on-vehicle-stability-and-driver-behavior.mdx"
     },
-    "Xia2011": {
+    "KellerMitsch1993": {
       "citationNumber": 93,
       "parentDocId": "lifesim-technical-reference-manual-v1.0",
       "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
       "docId": "22-appendix-g-research-on-vehicle-stability-and-driver-behavior.mdx"
     },
-    "FalconerXia2013": {
+    "Shu2011": {
       "citationNumber": 94,
       "parentDocId": "lifesim-technical-reference-manual-v1.0",
       "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
       "docId": "22-appendix-g-research-on-vehicle-stability-and-driver-behavior.mdx"
     },
-    "Toda2013": {
+    "Xia2011": {
       "citationNumber": 95,
       "parentDocId": "lifesim-technical-reference-manual-v1.0",
       "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
       "docId": "22-appendix-g-research-on-vehicle-stability-and-driver-behavior.mdx"
     },
-    "Arrighi2015": {
+    "FalconerXia2013": {
       "citationNumber": 96,
       "parentDocId": "lifesim-technical-reference-manual-v1.0",
       "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
       "docId": "22-appendix-g-research-on-vehicle-stability-and-driver-behavior.mdx"
     },
-    "Arrighi2016": {
+    "Toda2013": {
       "citationNumber": 97,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "22-appendix-g-research-on-vehicle-stability-and-driver-behavior.mdx"
+    },
+    "Arrighi2015": {
+      "citationNumber": 98,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "22-appendix-g-research-on-vehicle-stability-and-driver-behavior.mdx"
+    },
+    "Arrighi2016": {
+      "citationNumber": 99,
       "parentDocId": "lifesim-technical-reference-manual-v1.0",
       "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
       "docId": "22-appendix-g-research-on-vehicle-stability-and-driver-behavior.mdx"
