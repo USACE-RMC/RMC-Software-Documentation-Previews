@@ -1,0 +1,1683 @@
+{
+  "figures": {
+    "figure-1": {
+      "figNumber": 1,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "03-introduction-and-overview-of-lifesim.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure1.png",
+      "caption": "General inputs and results for a LifeSim model."
+    },
+    "figure-2": {
+      "figNumber": 2,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "03-introduction-and-overview-of-lifesim.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure2.png",
+      "caption": "The LifeSim warning and evacuation timeline."
+    },
+    "figure-3": {
+      "figNumber": 3,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "03-introduction-and-overview-of-lifesim.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure3.png",
+      "caption": "Flow logic for LifeSim iteration."
+    },
+    "hydraulic-import": {
+      "figNumber": 4,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "04-hydraulic-data.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/hydraulic-import.png",
+      "caption": "Hydraulic Data import options in LifeSim version 2.2."
+    },
+    "figure-4": {
+      "figNumber": 5,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "04-hydraulic-data.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure4.png",
+      "caption": "Example graph showing the point (Hazard Occurrence Time) at which the hazard occurs (e.g., dam failure)."
+    },
+    "figure-5": {
+      "figNumber": 6,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "04-hydraulic-data.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure5.png",
+      "caption": "Setting the hazard occurrence time in LifeSim."
+    },
+    "figure-6": {
+      "figNumber": 7,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "04-hydraulic-data.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure6.png",
+      "caption": "Generate structure hydraulic summary."
+    },
+    "figure-7": {
+      "figNumber": 8,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "05-structure-inventory-and-associated-properties.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure7.png",
+      "caption": "Occupancy type window in LifeSim."
+    },
+    "figure-8": {
+      "figNumber": 9,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "05-structure-inventory-and-associated-properties.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure8.png",
+      "caption": "Depth-damage functions for economic damage computations."
+    },
+    "figure-9": {
+      "figNumber": 10,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "05-structure-inventory-and-associated-properties.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure9.png",
+      "caption": "Submergence schematic explaining how submergence criteria in a structure is used to determine hazard level in LifeSim."
+    },
+    "figure-10": {
+      "figNumber": 11,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "05-structure-inventory-and-associated-properties.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure10.png",
+      "caption": "Stability criteria assignment with default stability criteria."
+    },
+    "figure-11": {
+      "figNumber": 12,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "05-structure-inventory-and-associated-properties.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure11.png",
+      "caption": "Stability criteria assignment with ability to create a user-defined rule."
+    },
+    "figure-12": {
+      "figNumber": 13,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "05-structure-inventory-and-associated-properties.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure12.png",
+      "caption": "Schematic of structure heights."
+    },
+    "figure-13": {
+      "figNumber": 14,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "05-structure-inventory-and-associated-properties.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure13.png",
+      "caption": "Graphic example of a sampled stability curve function with zone of swim testing in LifeSim."
+    },
+    "figure-14": {
+      "figNumber": 15,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "05-structure-inventory-and-associated-properties.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure14.png",
+      "caption": "Human stability criteria flow logic to determine hazard level."
+    },
+    "figure-15": {
+      "figNumber": 16,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "05-structure-inventory-and-associated-properties.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure15.png",
+      "caption": ""
+    },
+    "figure-16": {
+      "figNumber": 17,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "05-structure-inventory-and-associated-properties.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure16.png",
+      "caption": ""
+    },
+    "figure-17": {
+      "figNumber": 18,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "05-structure-inventory-and-associated-properties.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure17.png",
+      "caption": "Census block population inventory."
+    },
+    "figure-18": {
+      "figNumber": 19,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "06-warning-and-protective-action-parameters.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure18.png",
+      "caption": "Timeline of study components in LifeSim."
+    },
+    "figure-19": {
+      "figNumber": 20,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "06-warning-and-protective-action-parameters.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure19.png",
+      "caption": "Selecting the simulation hazard occurrence time."
+    },
+    "figure-21": {
+      "figNumber": 21,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "06-warning-and-protective-action-parameters.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure21.png",
+      "caption": "Assessment of the 2017 Oroville hazard by decision makers driving the length of the imminent hazard recognition delay."
+    },
+    "figure-22": {
+      "figNumber": 22,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "06-warning-and-protective-action-parameters.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure22.png",
+      "caption": "Hazard communication delay within the LifeSim timeline."
+    },
+    "figure-23": {
+      "figNumber": 23,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "06-warning-and-protective-action-parameters.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure23.png",
+      "caption": "Warning issuance delay within the LifeSim timeline."
+    },
+    "figure-24": {
+      "figNumber": 24,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "06-warning-and-protective-action-parameters.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure24.png",
+      "caption": "Standard warning issuance delay functions in the Warning and Protective Action Data Editor."
+    },
+    "figure-25": {
+      "figNumber": 25,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "06-warning-and-protective-action-parameters.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure25.png",
+      "caption": "Probability distribution functions for warning issuance delay times used in LifeSim."
+    },
+    "figure-26": {
+      "figNumber": 26,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "06-warning-and-protective-action-parameters.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure26.png",
+      "caption": "First alert diffusion delay within the LifeSim timeline."
+    },
+    "figure-27": {
+      "figNumber": 27,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "06-warning-and-protective-action-parameters.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure27.png",
+      "caption": "Factors influencing first alert diffusion delay."
+    },
+    "figure-28": {
+      "figNumber": 28,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "06-warning-and-protective-action-parameters.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure28.png",
+      "caption": "First alert diffusion functions in LifeSim Warning and Protective Action Data Editor."
+    },
+    "figure-29": {
+      "figNumber": 29,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "06-warning-and-protective-action-parameters.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure29.png",
+      "caption": "Simulated curves for four dissemination systems day and night (Mileti and Sorensen 2017b)."
+    },
+    "figure-30": {
+      "figNumber": 30,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "06-warning-and-protective-action-parameters.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure30.png",
+      "caption": "Oroville first alert survey results (Sorensen et al., 2018)."
+    },
+    "figure-31": {
+      "figNumber": 31,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "06-warning-and-protective-action-parameters.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure31.png",
+      "caption": "Protective action initiation delay within the LifeSim timeline."
+    },
+    "figure-32": {
+      "figNumber": 32,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "06-warning-and-protective-action-parameters.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure32.png",
+      "caption": "LifeSim Warning And Protective Action Data Editor."
+    },
+    "figure-33": {
+      "figNumber": 33,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "06-warning-and-protective-action-parameters.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure33.png",
+      "caption": "Simulated PAI delay functions corresponding to different levels of preparedness and perception (Mileti and Sorensen 2017c)."
+    },
+    "figure-34": {
+      "figNumber": 34,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "06-warning-and-protective-action-parameters.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure34.png",
+      "caption": "Oroville protective action initiation survey results (Sorensen et al., 2018)."
+    },
+    "figure-35": {
+      "figNumber": 35,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "06-warning-and-protective-action-parameters.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure35.png",
+      "caption": "Example of developing a set of zones to define initial perception."
+    },
+    "figure-36": {
+      "figNumber": 36,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "07-road-networks-destinations-and-evacuation-parameters.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure36.png",
+      "caption": "The dual-regime modified greenshields model employed in LifeSim."
+    },
+    "figure-37": {
+      "figNumber": 37,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "07-road-networks-destinations-and-evacuation-parameters.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure37.png",
+      "caption": "One-way road valid and invalid representations."
+    },
+    "figure-38": {
+      "figNumber": 38,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "07-road-networks-destinations-and-evacuation-parameters.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure38.png",
+      "caption": "Road network connectivity example."
+    },
+    "figure-39": {
+      "figNumber": 39,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "07-road-networks-destinations-and-evacuation-parameters.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure39.png",
+      "caption": "Road linework connectivity for overpasses."
+    },
+    "figure-40": {
+      "figNumber": 40,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "07-road-networks-destinations-and-evacuation-parameters.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure40.png",
+      "caption": "Example of roadway segment that should be split into multiple segments (a) and (c) and an appropriate modification (b) and (d)."
+    },
+    "figure-41": {
+      "figNumber": 41,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "07-road-networks-destinations-and-evacuation-parameters.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure41.png",
+      "caption": "Example of a vertical offset for a bridge segment."
+    },
+    "figure-42": {
+      "figNumber": 42,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "07-road-networks-destinations-and-evacuation-parameters.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure42.png",
+      "caption": "Typical modes of vehicle instability (Shand, Smith, et al., 2011)."
+    },
+    "figure-43": {
+      "figNumber": 43,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "07-road-networks-destinations-and-evacuation-parameters.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure43.png",
+      "caption": "Willingness to enter flooded road."
+    },
+    "figure-44": {
+      "figNumber": 44,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "08-agricultural-inventory.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure44.png",
+      "caption": "LifeSim import of agricultural data from NASS."
+    },
+    "figure-45": {
+      "figNumber": 45,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "09-indirect-damages-with-ecam.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure45.png",
+      "caption": "LifeSim ECAM Data Importer."
+    },
+    "figure-46": {
+      "figNumber": 46,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "10-fatality-rates.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure46.png",
+      "caption": "High hazard zone fatality function."
+    },
+    "figure-47": {
+      "figNumber": 47,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "10-fatality-rates.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure47.png",
+      "caption": "Low hazard zone fatality function zoomed in to show non-zero data points."
+    },
+    "figure-48": {
+      "figNumber": 48,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "11-computational-procedure.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure48.png",
+      "caption": "Example of Ramer-Douglas-Peucker hydrograph simplification."
+    },
+    "gif-break-segment": {
+      "figNumber": 49,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "11-computational-procedure.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/break-segment.gif",
+      "caption": "Example of dividing LifeSim road segment to better sample hydraulic conditions at midpoint."
+    },
+    "figure-49": {
+      "figNumber": 50,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "11-computational-procedure.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure49.png",
+      "caption": "Preprocessing of the road linework."
+    },
+    "figure-50": {
+      "figNumber": 51,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "11-computational-procedure.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure50.png",
+      "caption": "Setting a destination point. Panel A: If the closest line to a destination point is at an end point, then the end node is set as the destination. Panel B: If the closest line to a destination point is between start and end nodes, the line is split at the nearest point and the new node is set as the destination."
+    },
+    "figure-51": {
+      "figNumber": 52,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "11-computational-procedure.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure51.png",
+      "caption": "Example road network and fastest pathway lookup table."
+    },
+    "figure-52": {
+      "figNumber": 53,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "11-computational-procedure.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure52.png",
+      "caption": "Nested loops used in Monte Carlo simulation."
+    },
+    "figure-53": {
+      "figNumber": 54,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "11-computational-procedure.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure53.png",
+      "caption": "Population interpolation example: typical residential structure."
+    },
+    "figure-54": {
+      "figNumber": 55,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "11-computational-procedure.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure54.png",
+      "caption": "Population interpolation example: typical commercial/public structure."
+    },
+    "figure-55": {
+      "figNumber": 56,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "11-computational-procedure.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure55.png",
+      "caption": "Example of how the first alert and PAI functions are sampled to get time warned and time mobilized for each evacuating group in LifeSim."
+    },
+    "figure-56": {
+      "figNumber": 57,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "11-computational-procedure.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure56.png",
+      "caption": "LifeSim computation process pre-exposure."
+    },
+    "figure-57": {
+      "figNumber": 58,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "11-computational-procedure.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure57.png",
+      "caption": "Decision tree for beginning to evacuate or remain in structure, with traffic simulation."
+    },
+    "figure-58": {
+      "figNumber": 59,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "11-computational-procedure.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure58.png",
+      "caption": "Overview of vehicular evacuation logic and how vehicles are assigned to a hazard zone."
+    },
+    "figure-59": {
+      "figNumber": 60,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "11-computational-procedure.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure59.png",
+      "caption": "Examples of decisions to enter a flooded road. Panel A shows a vehicle (1) that will not evacuate across the flooded road. Panel B shows a vehicle (2) that is willing to enter and loses stability while trying to cross the flooded road. Panel C shows a vehicle (3) that is not willing to try and cross the flooded road with a stalled vehicle (2) on it."
+    },
+    "figure-60": {
+      "figNumber": 61,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "11-computational-procedure.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure60.png",
+      "caption": "Vertical evacuation logic in LifeSim assuming the structure remains stable."
+    },
+    "figure-61": {
+      "figNumber": 62,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "12-consequences.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure61.png",
+      "caption": "High hazard fatality rate function used in LifeSim."
+    },
+    "figure-62": {
+      "figNumber": 63,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "12-consequences.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure62.png",
+      "caption": "Example sampling of high hazard fatality rate function for one evacuating group."
+    },
+    "figure-63": {
+      "figNumber": 64,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "12-consequences.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure63.png",
+      "caption": "Direct building damage calculation procedure."
+    },
+    "figure-64": {
+      "figNumber": 65,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "12-consequences.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure64.png",
+      "caption": "Seasonal crop value example."
+    },
+    "figure-65": {
+      "figNumber": 66,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "12-consequences.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure65.png",
+      "caption": "Seasonal crop duration damage example."
+    },
+    "figure-66": {
+      "figNumber": "C-1",
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "18-appendix-c-excerpt-from-first-alert-or-warning-diffusion-time.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure66.png",
+      "caption": ""
+    },
+    "figure-67": {
+      "figNumber": "C-2",
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "18-appendix-c-excerpt-from-first-alert-or-warning-diffusion-time.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure67.png",
+      "caption": ""
+    },
+    "figure-68": {
+      "figNumber": "C-3",
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "18-appendix-c-excerpt-from-first-alert-or-warning-diffusion-time.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure68.png",
+      "caption": ""
+    },
+    "figure-69": {
+      "figNumber": "C-4",
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "18-appendix-c-excerpt-from-first-alert-or-warning-diffusion-time.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure69.png",
+      "caption": ""
+    },
+    "figure-70": {
+      "figNumber": "C-5",
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "18-appendix-c-excerpt-from-first-alert-or-warning-diffusion-time.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure70.png",
+      "caption": ""
+    },
+    "figure-71": {
+      "figNumber": "C-6",
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "18-appendix-c-excerpt-from-first-alert-or-warning-diffusion-time.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure71.png",
+      "caption": "Diffusion of WEA message in the Boulder flood."
+    },
+    "figure-72": {
+      "figNumber": "C-7",
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "18-appendix-c-excerpt-from-first-alert-or-warning-diffusion-time.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure72.png",
+      "caption": "Diffusion curves developed from six case histories."
+    },
+    "figure-73": {
+      "figNumber": "D-1",
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "19-appendix-d-excerpt-from-protective-action-initiation-time-estimation.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure73.png",
+      "caption": "Mobilization (PAI) curves for two hazardous material accidents."
+    },
+    "figure-74": {
+      "figNumber": "D-2",
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "19-appendix-d-excerpt-from-protective-action-initiation-time-estimation.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure74.png",
+      "caption": ""
+    },
+    "figure-75": {
+      "figNumber": "D-3",
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "19-appendix-d-excerpt-from-protective-action-initiation-time-estimation.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure75.png",
+      "caption": "Mobilization (PAI) curves in Hurricane Floyd (U.S. Army Corps of Engineers, 1990)."
+    },
+    "figure-76": {
+      "figNumber": "D-4",
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "19-appendix-d-excerpt-from-protective-action-initiation-time-estimation.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure76.png",
+      "caption": "Mobilization (PAI) curves in Hurricane Fran (U.S. Army Corps of Engineers, 1998)."
+    },
+    "newfig-lifesim-to-nsi": {
+      "figNumber": "E-1",
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "20-appendix-e-structures-from-the-nsi-database.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/newfig-nsi2026.png",
+      "caption": "LifeSim Import From Point Shapefile - NSI 2026 Import Attributes to LifeSim Required Attributes."
+    },
+    "figure-77": {
+      "figNumber": "F-1",
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "21-appendix-f-engineered-construction-structural-stability.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure77.png",
+      "caption": "Default stability criteria for engineered construction, uniform distribution."
+    },
+    "figure-78": {
+      "figNumber": "F-2",
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "21-appendix-f-engineered-construction-structural-stability.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure78.png",
+      "caption": "Default stability criteria for wood-anchored construction, triangular distribution."
+    },
+    "figure-79": {
+      "figNumber": "F-3",
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "21-appendix-f-engineered-construction-structural-stability.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure79.png",
+      "caption": "Default stability criteria for manufactured construction, uniform distribution."
+    },
+    "figure-80": {
+      "figNumber": "F-4",
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "21-appendix-f-engineered-construction-structural-stability.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure80.png",
+      "caption": "Default stability criteria for masonry construction, triangular distribution."
+    },
+    "figure-81": {
+      "figNumber": "F-5",
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "21-appendix-f-engineered-construction-structural-stability.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure81.png",
+      "caption": "Default stability criteria for wood-buoyant construction if weight unknown, uniform distribution."
+    },
+    "figure-82": {
+      "figNumber": "F-6",
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "21-appendix-f-engineered-construction-structural-stability.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure82.png",
+      "caption": "Default stability criteria for light wood-buoyant construction, triangular distribution."
+    },
+    "figure-83": {
+      "figNumber": "F-7",
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "21-appendix-f-engineered-construction-structural-stability.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure83.png",
+      "caption": "Default stability criteria for heavy wood-buoyant construction, triangular distribution."
+    },
+    "figure-84": {
+      "figNumber": "G-1",
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "22-appendix-g-research-on-vehicle-stability-and-driver-behavior.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure84.png",
+      "caption": ""
+    },
+    "figure-85": {
+      "figNumber": "G-2",
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "22-appendix-g-research-on-vehicle-stability-and-driver-behavior.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure85.png",
+      "caption": ""
+    },
+    "figure-86": {
+      "figNumber": "G-3",
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "22-appendix-g-research-on-vehicle-stability-and-driver-behavior.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure86.png",
+      "caption": "Decision to enter a flooded road, threshold curve, and supporting data (low clearance)."
+    },
+    "figure-87": {
+      "figNumber": "G-4",
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "22-appendix-g-research-on-vehicle-stability-and-driver-behavior.mdx",
+      "src": "figures/desktop-applications/lifesim/technical-reference-manual/v1.0/figures/figure87.png",
+      "caption": "Decision to enter a flooded road, threshold curve, and supporting data (high clearance)."
+    }
+  },
+  "tables": {
+    "table-1": {
+      "tableNumber": 1,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "04-hydraulic-data.mdx"
+    },
+    "table-2": {
+      "tableNumber": 2,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "05-structure-inventory-and-associated-properties.mdx"
+    },
+    "table-3": {
+      "tableNumber": 3,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "05-structure-inventory-and-associated-properties.mdx"
+    },
+    "table-4": {
+      "tableNumber": 4,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "05-structure-inventory-and-associated-properties.mdx"
+    },
+    "table-5": {
+      "tableNumber": 5,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "05-structure-inventory-and-associated-properties.mdx"
+    },
+    "table-6": {
+      "tableNumber": 6,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "05-structure-inventory-and-associated-properties.mdx"
+    },
+    "table-7": {
+      "tableNumber": 7,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "05-structure-inventory-and-associated-properties.mdx"
+    },
+    "table-8": {
+      "tableNumber": 8,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "05-structure-inventory-and-associated-properties.mdx"
+    },
+    "table-9": {
+      "tableNumber": 9,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "05-structure-inventory-and-associated-properties.mdx"
+    },
+    "table-10": {
+      "tableNumber": 10,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "06-warning-and-protective-action-parameters.mdx"
+    },
+    "table-11": {
+      "tableNumber": 11,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "06-warning-and-protective-action-parameters.mdx"
+    },
+    "table-12": {
+      "tableNumber": 12,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "06-warning-and-protective-action-parameters.mdx"
+    },
+    "table-13": {
+      "tableNumber": 13,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "06-warning-and-protective-action-parameters.mdx"
+    },
+    "table-14": {
+      "tableNumber": 14,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "07-road-networks-destinations-and-evacuation-parameters.mdx"
+    },
+    "table-15": {
+      "tableNumber": 15,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "07-road-networks-destinations-and-evacuation-parameters.mdx"
+    },
+    "table-16": {
+      "tableNumber": 16,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "07-road-networks-destinations-and-evacuation-parameters.mdx"
+    },
+    "table-17": {
+      "tableNumber": 17,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "07-road-networks-destinations-and-evacuation-parameters.mdx"
+    },
+    "table-17-feet": {
+      "tableNumber": 18,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "07-road-networks-destinations-and-evacuation-parameters.mdx"
+    },
+    "table-18": {
+      "tableNumber": 19,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "07-road-networks-destinations-and-evacuation-parameters.mdx"
+    },
+    "table-19": {
+      "tableNumber": 20,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "07-road-networks-destinations-and-evacuation-parameters.mdx"
+    },
+    "table-20": {
+      "tableNumber": 21,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "07-road-networks-destinations-and-evacuation-parameters.mdx"
+    },
+    "table-21": {
+      "tableNumber": 22,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "10-fatality-rates.mdx"
+    },
+    "table-22": {
+      "tableNumber": 23,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "13-uncertainty-and-sampling-methods.mdx"
+    },
+    "table-23": {
+      "tableNumber": "C-1",
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "18-appendix-c-excerpt-from-first-alert-or-warning-diffusion-time.mdx"
+    },
+    "table-NSI-fields": {
+      "tableNumber": "E-1",
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "20-appendix-e-structures-from-the-nsi-database.mdx"
+    },
+    "table-occ-types-2026": {
+      "tableNumber": "E-2",
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "20-appendix-e-structures-from-the-nsi-database.mdx"
+    },
+    "table-28": {
+      "tableNumber": "F-1",
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "21-appendix-f-engineered-construction-structural-stability.mdx"
+    },
+    "table-29": {
+      "tableNumber": "G-1",
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "22-appendix-g-research-on-vehicle-stability-and-driver-behavior.mdx"
+    }
+  },
+  "equations": {
+    "equation-1": {
+      "equationNumber": 1,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "05-structure-inventory-and-associated-properties.mdx"
+    },
+    "equation-2": {
+      "equationNumber": 2,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "05-structure-inventory-and-associated-properties.mdx"
+    },
+    "equation-3": {
+      "equationNumber": 3,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "05-structure-inventory-and-associated-properties.mdx"
+    },
+    "equation-4": {
+      "equationNumber": 4,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "05-structure-inventory-and-associated-properties.mdx"
+    },
+    "equation-5": {
+      "equationNumber": 5,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "05-structure-inventory-and-associated-properties.mdx"
+    },
+    "equation-6": {
+      "equationNumber": 6,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "05-structure-inventory-and-associated-properties.mdx"
+    },
+    "equation-7": {
+      "equationNumber": 7,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "05-structure-inventory-and-associated-properties.mdx"
+    },
+    "equation-8": {
+      "equationNumber": 8,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "05-structure-inventory-and-associated-properties.mdx"
+    },
+    "equation-9": {
+      "equationNumber": 9,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "06-warning-and-protective-action-parameters.mdx"
+    },
+    "equation-10": {
+      "equationNumber": 10,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "07-road-networks-destinations-and-evacuation-parameters.mdx"
+    },
+    "equation-11": {
+      "equationNumber": 11,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "07-road-networks-destinations-and-evacuation-parameters.mdx"
+    },
+    "equation-12": {
+      "equationNumber": 12,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "11-computational-procedure.mdx"
+    },
+    "equation-13": {
+      "equationNumber": 13,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "12-consequences.mdx"
+    },
+    "equation-14": {
+      "equationNumber": 14,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "12-consequences.mdx"
+    },
+    "equation-15": {
+      "equationNumber": 15,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "12-consequences.mdx"
+    },
+    "equation-16": {
+      "equationNumber": 16,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "12-consequences.mdx"
+    },
+    "equation-17": {
+      "equationNumber": 17,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "12-consequences.mdx"
+    },
+    "equation-18": {
+      "equationNumber": 18,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "12-consequences.mdx"
+    },
+    "equation-19": {
+      "equationNumber": 19,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "12-consequences.mdx"
+    },
+    "equation-20": {
+      "equationNumber": 20,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "12-consequences.mdx"
+    },
+    "equation-21": {
+      "equationNumber": 21,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "12-consequences.mdx"
+    },
+    "equation-22": {
+      "equationNumber": 22,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "12-consequences.mdx"
+    },
+    "equation-23": {
+      "equationNumber": 23,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "12-consequences.mdx"
+    },
+    "equation-24": {
+      "equationNumber": 24,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "12-consequences.mdx"
+    },
+    "equation-25": {
+      "equationNumber": 25,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "12-consequences.mdx"
+    },
+    "equation-26": {
+      "equationNumber": 26,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "12-consequences.mdx"
+    },
+    "equation-27": {
+      "equationNumber": 27,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "13-uncertainty-and-sampling-methods.mdx"
+    },
+    "equation-28": {
+      "equationNumber": "F-1",
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "21-appendix-f-engineered-construction-structural-stability.mdx"
+    },
+    "equation-29": {
+      "equationNumber": "F-2",
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "21-appendix-f-engineered-construction-structural-stability.mdx"
+    },
+    "equation-30": {
+      "equationNumber": "F-3",
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "21-appendix-f-engineered-construction-structural-stability.mdx"
+    },
+    "equation-31": {
+      "equationNumber": "F-4",
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "21-appendix-f-engineered-construction-structural-stability.mdx"
+    },
+    "equation-32": {
+      "equationNumber": "F-5",
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "21-appendix-f-engineered-construction-structural-stability.mdx"
+    },
+    "equation-33": {
+      "equationNumber": "G-1",
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "22-appendix-g-research-on-vehicle-stability-and-driver-behavior.mdx"
+    }
+  },
+  "citations": {
+    "RMC2021": {
+      "citationNumber": 1,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "02-executive-summary.mdx"
+    },
+    "AboelataBowlesMcClelland2003": {
+      "citationNumber": 2,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "02-executive-summary.mdx"
+    },
+    "AboelataBowles2005": {
+      "citationNumber": 3,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "03-introduction-and-overview-of-lifesim.mdx"
+    },
+    "AboelataBowles2006": {
+      "citationNumber": 4,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "03-introduction-and-overview-of-lifesim.mdx"
+    },
+    "Needham2016": {
+      "citationNumber": 5,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "03-introduction-and-overview-of-lifesim.mdx"
+    },
+    "Needham2020": {
+      "citationNumber": 6,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "03-introduction-and-overview-of-lifesim.mdx"
+    },
+    "Risher2017": {
+      "citationNumber": 7,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "03-introduction-and-overview-of-lifesim.mdx"
+    },
+    "HECRAS2024": {
+      "citationNumber": 8,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "04-hydraulic-data.mdx"
+    },
+    "FLO2022": {
+      "citationNumber": 9,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "04-hydraulic-data.mdx"
+    },
+    "NSI": {
+      "citationNumber": 10,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "05-structure-inventory-and-associated-properties.mdx"
+    },
+    "FEMA2019": {
+      "citationNumber": 11,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "05-structure-inventory-and-associated-properties.mdx"
+    },
+    "USACE2003": {
+      "citationNumber": 12,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "05-structure-inventory-and-associated-properties.mdx"
+    },
+    "CH2MHill1974": {
+      "citationNumber": 13,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "05-structure-inventory-and-associated-properties.mdx"
+    },
+    "USACE2015a": {
+      "citationNumber": 14,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "05-structure-inventory-and-associated-properties.mdx"
+    },
+    "Jonkman2009": {
+      "citationNumber": 15,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "05-structure-inventory-and-associated-properties.mdx"
+    },
+    "Jonkman2018": {
+      "citationNumber": 16,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "05-structure-inventory-and-associated-properties.mdx"
+    },
+    "Census2017": {
+      "citationNumber": 17,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "05-structure-inventory-and-associated-properties.mdx"
+    },
+    "Brault2008": {
+      "citationNumber": 18,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "05-structure-inventory-and-associated-properties.mdx"
+    },
+    "LODES": {
+      "citationNumber": 19,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "05-structure-inventory-and-associated-properties.mdx"
+    },
+    "Russo2013": {
+      "citationNumber": 20,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "05-structure-inventory-and-associated-properties.mdx"
+    },
+    "Shand2011": {
+      "citationNumber": 21,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "05-structure-inventory-and-associated-properties.mdx"
+    },
+    "MiletiSorensen2015": {
+      "citationNumber": 22,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "06-warning-and-protective-action-parameters.mdx"
+    },
+    "Lindell2013": {
+      "citationNumber": 23,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "06-warning-and-protective-action-parameters.mdx"
+    },
+    "Fell2003": {
+      "citationNumber": 24,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "06-warning-and-protective-action-parameters.mdx"
+    },
+    "Robbins2012": {
+      "citationNumber": 25,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "06-warning-and-protective-action-parameters.mdx"
+    },
+    "Morris2018": {
+      "citationNumber": 26,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "06-warning-and-protective-action-parameters.mdx"
+    },
+    "Wu2013": {
+      "citationNumber": 27,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "06-warning-and-protective-action-parameters.mdx"
+    },
+    "Risher2016": {
+      "citationNumber": 28,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "06-warning-and-protective-action-parameters.mdx"
+    },
+    "Sorensen2018": {
+      "citationNumber": 29,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "06-warning-and-protective-action-parameters.mdx"
+    },
+    "MiletiSorensen2017a": {
+      "citationNumber": 30,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "06-warning-and-protective-action-parameters.mdx"
+    },
+    "MiletiSorensen2017b": {
+      "citationNumber": 31,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "06-warning-and-protective-action-parameters.mdx"
+    },
+    "MiletiSorensen2017c": {
+      "citationNumber": 32,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "06-warning-and-protective-action-parameters.mdx"
+    },
+    "Baker1987": {
+      "citationNumber": 33,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "06-warning-and-protective-action-parameters.mdx"
+    },
+    "Lindell2005": {
+      "citationNumber": 34,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "06-warning-and-protective-action-parameters.mdx"
+    },
+    "Mahmassani2009": {
+      "citationNumber": 35,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "07-road-networks-destinations-and-evacuation-parameters.mdx"
+    },
+    "OSM": {
+      "citationNumber": 36,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "07-road-networks-destinations-and-evacuation-parameters.mdx"
+    },
+    "TRB2016": {
+      "citationNumber": 37,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "07-road-networks-destinations-and-evacuation-parameters.mdx"
+    },
+    "Healthline2018": {
+      "citationNumber": 38,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "07-road-networks-destinations-and-evacuation-parameters.mdx"
+    },
+    "USDHHS2008": {
+      "citationNumber": 39,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "07-road-networks-destinations-and-evacuation-parameters.mdx"
+    },
+    "NEITE": {
+      "citationNumber": 40,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "07-road-networks-destinations-and-evacuation-parameters.mdx"
+    },
+    "Gissing2016": {
+      "citationNumber": 41,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "07-road-networks-destinations-and-evacuation-parameters.mdx"
+    },
+    "Drobot2007": {
+      "citationNumber": 42,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "07-road-networks-destinations-and-evacuation-parameters.mdx"
+    },
+    "PearsonHamilton2014": {
+      "citationNumber": 43,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "07-road-networks-destinations-and-evacuation-parameters.mdx"
+    },
+    "Hamilton2016": {
+      "citationNumber": 44,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "07-road-networks-destinations-and-evacuation-parameters.mdx"
+    },
+    "USACE2026HECFIA": {
+      "citationNumber": 45,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "08-agricultural-inventory.mdx"
+    },
+    "Lehman2013": {
+      "citationNumber": 46,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "09-indirect-damages-with-ecam.mdx"
+    },
+    "McClellandBowles2002a": {
+      "citationNumber": 47,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "10-fatality-rates.mdx"
+    },
+    "McClellandBowles2000": {
+      "citationNumber": 48,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "12-consequences.mdx"
+    },
+    "AboelataBowles2008": {
+      "citationNumber": 49,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "12-consequences.mdx"
+    },
+    "FEMA2020": {
+      "citationNumber": 50,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "12-consequences.mdx"
+    },
+    "AboelataBowlesChen2004": {
+      "citationNumber": 51,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "13-uncertainty-and-sampling-methods.mdx"
+    },
+    "Census2026": {
+      "citationNumber": 52,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "17-appendix-b-eoe-questionnaire.mdx"
+    },
+    "DrabekStephenson1971": {
+      "citationNumber": 53,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "18-appendix-c-excerpt-from-first-alert-or-warning-diffusion-time.mdx"
+    },
+    "PerryMushkatel1986": {
+      "citationNumber": 54,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "18-appendix-c-excerpt-from-first-alert-or-warning-diffusion-time.mdx"
+    },
+    "PerryEtAl1981": {
+      "citationNumber": 55,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "18-appendix-c-excerpt-from-first-alert-or-warning-diffusion-time.mdx"
+    },
+    "PerryGreene1983": {
+      "citationNumber": 56,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "18-appendix-c-excerpt-from-first-alert-or-warning-diffusion-time.mdx"
+    },
+    "DillmanEtAl1983": {
+      "citationNumber": 57,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "18-appendix-c-excerpt-from-first-alert-or-warning-diffusion-time.mdx"
+    },
+    "LeikEtAl1981": {
+      "citationNumber": 58,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "18-appendix-c-excerpt-from-first-alert-or-warning-diffusion-time.mdx"
+    },
+    "Burton1981": {
+      "citationNumber": 59,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "18-appendix-c-excerpt-from-first-alert-or-warning-diffusion-time.mdx"
+    },
+    "RogersSorensen1989": {
+      "citationNumber": 60,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "18-appendix-c-excerpt-from-first-alert-or-warning-diffusion-time.mdx"
+    },
+    "DuclosEtAl1989": {
+      "citationNumber": 61,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "18-appendix-c-excerpt-from-first-alert-or-warning-diffusion-time.mdx"
+    },
+    "Sorensen1992": {
+      "citationNumber": 62,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "18-appendix-c-excerpt-from-first-alert-or-warning-diffusion-time.mdx"
+    },
+    "VogtSorensen1999": {
+      "citationNumber": 63,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "18-appendix-c-excerpt-from-first-alert-or-warning-diffusion-time.mdx"
+    },
+    "MitchellEtAl2005": {
+      "citationNumber": 64,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "18-appendix-c-excerpt-from-first-alert-or-warning-diffusion-time.mdx"
+    },
+    "DuclosEtAl1987": {
+      "citationNumber": 65,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "18-appendix-c-excerpt-from-first-alert-or-warning-diffusion-time.mdx"
+    },
+    "SorensenEtAl2009": {
+      "citationNumber": 66,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "18-appendix-c-excerpt-from-first-alert-or-warning-diffusion-time.mdx"
+    },
+    "PaulEtAl2003": {
+      "citationNumber": 67,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "18-appendix-c-excerpt-from-first-alert-or-warning-diffusion-time.mdx"
+    },
+    "GruntfestBenight2005": {
+      "citationNumber": 68,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "18-appendix-c-excerpt-from-first-alert-or-warning-diffusion-time.mdx"
+    },
+    "AverillEtAl2005": {
+      "citationNumber": 69,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "18-appendix-c-excerpt-from-first-alert-or-warning-diffusion-time.mdx"
+    },
+    "LindellPerry1987": {
+      "citationNumber": 70,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "18-appendix-c-excerpt-from-first-alert-or-warning-diffusion-time.mdx"
+    },
+    "SorensenMileti1990": {
+      "citationNumber": 71,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "18-appendix-c-excerpt-from-first-alert-or-warning-diffusion-time.mdx"
+    },
+    "RogersEtAl1990": {
+      "citationNumber": 72,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "18-appendix-c-excerpt-from-first-alert-or-warning-diffusion-time.mdx"
+    },
+    "LindellPerry2004": {
+      "citationNumber": 73,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "18-appendix-c-excerpt-from-first-alert-or-warning-diffusion-time.mdx"
+    },
+    "LindellEtAl2002": {
+      "citationNumber": 74,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "18-appendix-c-excerpt-from-first-alert-or-warning-diffusion-time.mdx"
+    },
+    "BeanEtAl2014": {
+      "citationNumber": 75,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "18-appendix-c-excerpt-from-first-alert-or-warning-diffusion-time.mdx"
+    },
+    "DowCutter2002": {
+      "citationNumber": 76,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "19-appendix-d-excerpt-from-protective-action-initiation-time-estimation.mdx"
+    },
+    "NSItechdoc2026": {
+      "citationNumber": 77,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "20-appendix-e-structures-from-the-nsi-database.mdx"
+    },
+    "FEMA2025": {
+      "citationNumber": 78,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "20-appendix-e-structures-from-the-nsi-database.mdx"
+    },
+    "USACE1985": {
+      "citationNumber": 79,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "21-appendix-f-engineered-construction-structural-stability.mdx"
+    },
+    "Becker2011": {
+      "citationNumber": 80,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "21-appendix-f-engineered-construction-structural-stability.mdx"
+    },
+    "Gallegos2012": {
+      "citationNumber": 81,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "21-appendix-f-engineered-construction-structural-stability.mdx"
+    },
+    "McBean1988": {
+      "citationNumber": 82,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "21-appendix-f-engineered-construction-structural-stability.mdx"
+    },
+    "FEMA2009": {
+      "citationNumber": 83,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "21-appendix-f-engineered-construction-structural-stability.mdx"
+    },
+    "Dale2004": {
+      "citationNumber": 84,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "21-appendix-f-engineered-construction-structural-stability.mdx"
+    },
+    "ClausenClark1990": {
+      "citationNumber": 85,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "21-appendix-f-engineered-construction-structural-stability.mdx"
+    },
+    "Harrison1864": {
+      "citationNumber": 86,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "21-appendix-f-engineered-construction-structural-stability.mdx"
+    },
+    "RESCDAM2000": {
+      "citationNumber": 87,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "21-appendix-f-engineered-construction-structural-stability.mdx"
+    },
+    "Black1975": {
+      "citationNumber": 88,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "21-appendix-f-engineered-construction-structural-stability.mdx"
+    },
+    "Sangrey1975": {
+      "citationNumber": 89,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "21-appendix-f-engineered-construction-structural-stability.mdx"
+    },
+    "Smith2017": {
+      "citationNumber": 90,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "22-appendix-g-research-on-vehicle-stability-and-driver-behavior.mdx"
+    },
+    "BonhamHattersley1967": {
+      "citationNumber": 91,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "22-appendix-g-research-on-vehicle-stability-and-driver-behavior.mdx"
+    },
+    "GordonStone1973": {
+      "citationNumber": 92,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "22-appendix-g-research-on-vehicle-stability-and-driver-behavior.mdx"
+    },
+    "KellerMitsch1993": {
+      "citationNumber": 93,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "22-appendix-g-research-on-vehicle-stability-and-driver-behavior.mdx"
+    },
+    "Shu2011": {
+      "citationNumber": 94,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "22-appendix-g-research-on-vehicle-stability-and-driver-behavior.mdx"
+    },
+    "Xia2011": {
+      "citationNumber": 95,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "22-appendix-g-research-on-vehicle-stability-and-driver-behavior.mdx"
+    },
+    "FalconerXia2013": {
+      "citationNumber": 96,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "22-appendix-g-research-on-vehicle-stability-and-driver-behavior.mdx"
+    },
+    "Toda2013": {
+      "citationNumber": 97,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "22-appendix-g-research-on-vehicle-stability-and-driver-behavior.mdx"
+    },
+    "Arrighi2015": {
+      "citationNumber": 98,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "22-appendix-g-research-on-vehicle-stability-and-driver-behavior.mdx"
+    },
+    "Arrighi2016": {
+      "citationNumber": 99,
+      "parentDocId": "lifesim-technical-reference-manual-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/technical-reference-manual/v1.0",
+      "docId": "22-appendix-g-research-on-vehicle-stability-and-driver-behavior.mdx"
+    }
+  },
+  "videos": {}
+}
