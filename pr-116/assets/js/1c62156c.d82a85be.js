@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkrmc_software_documentation||=[]).push([[99664],{46312(t,r,u){u.r(r),u.d(r,{default:()=>o});var a=u(56347),e=u(86025),n=u(74848);function o(){return(0,n.jsx)(a.rd,{to:(0,e.Ay)("/")})}}}]);

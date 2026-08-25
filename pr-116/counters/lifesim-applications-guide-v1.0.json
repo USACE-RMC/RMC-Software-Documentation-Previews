@@ -157,11 +157,19 @@
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
-      "src": "figures/desktop-applications/lifesim/applications-guide/v1.0/figures/figure19.png",
+      "src": "figures/desktop-applications/lifesim/applications-guide/v1.0/figures/figure19B.png",
       "caption": "Evacuation order from Yolo County Sheriff’s Office via Twitter during the 2019 Cache Creek Levee overtopping event"
     },
-    "figure-20": {
+    "figure-CacheCreekNOAA": {
       "figNumber": 21,
+      "parentDocId": "lifesim-applications-guide-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
+      "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
+      "src": "figures/desktop-applications/lifesim/applications-guide/v1.0/figures/CacheCreekNOAA.png",
+      "caption": "Historical gauge data for Cache Creek at Yolo, CA (YLOC1 Gauge Data)"
+    },
+    "figure-20": {
+      "figNumber": 22,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -169,7 +177,7 @@
       "caption": "Moderately Prepared Warning Issuance Delay curve"
     },
     "figure-21": {
-      "figNumber": 22,
+      "figNumber": 23,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -177,7 +185,7 @@
       "caption": "Moderately Fast Daytime First Alert Diffusion curve"
     },
     "figure-22": {
-      "figNumber": 23,
+      "figNumber": 24,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -185,7 +193,7 @@
       "caption": "Perception: High / Preparedness: Low Protective Action Initiation Curve"
     },
     "figure-23": {
-      "figNumber": 24,
+      "figNumber": 25,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -193,7 +201,7 @@
       "caption": "Importing Structures from Shapefile from the Study Pane"
     },
     "figure-24": {
-      "figNumber": 25,
+      "figNumber": 26,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -201,7 +209,7 @@
       "caption": "Import from Point Shapefile window"
     },
     "figure-25": {
-      "figNumber": 26,
+      "figNumber": 27,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -209,7 +217,7 @@
       "caption": "Importing National Structure Inventory 2.0 into LifeSim – Defining structure attributes"
     },
     "figure-26": {
-      "figNumber": 27,
+      "figNumber": 28,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -217,7 +225,7 @@
       "caption": "Importing National Structure Inventory 2.0 – assigning occupancy types"
     },
     "figure-27": {
-      "figNumber": 28,
+      "figNumber": 29,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -225,7 +233,7 @@
       "caption": "Importing National Structure Inventory 2.0 – assigning stability criteria"
     },
     "figure-28": {
-      "figNumber": 29,
+      "figNumber": 30,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -233,7 +241,7 @@
       "caption": "Example of creating a new stability criteria rule"
     },
     "figure-29": {
-      "figNumber": 30,
+      "figNumber": 31,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -241,7 +249,7 @@
       "caption": "How to show a study’s structure inventory in the Map Layers pane"
     },
     "figure-30": {
-      "figNumber": 31,
+      "figNumber": 32,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -249,7 +257,7 @@
       "caption": "How to edit an existing structure inventory via the Map Layers pane"
     },
     "figure-31": {
-      "figNumber": 32,
+      "figNumber": 33,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -257,7 +265,7 @@
       "caption": "How to stop editing a layer in LifeSim"
     },
     "figure-32": {
-      "figNumber": 33,
+      "figNumber": 34,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -265,7 +273,7 @@
       "caption": "Save Map Edits dialog box"
     },
     "figure-33": {
-      "figNumber": 34,
+      "figNumber": 35,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -273,7 +281,7 @@
       "caption": "Import a Road Network from Study pane"
     },
     "figure-34": {
-      "figNumber": 35,
+      "figNumber": 36,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -281,7 +289,7 @@
       "caption": "Import Road Network from OpenStreetMap – Selecting Census Feature Class Codes (CFCC)"
     },
     "figure-35": {
-      "figNumber": 36,
+      "figNumber": 37,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -289,7 +297,7 @@
       "caption": "Import a Road Network from Study pane"
     },
     "figure-36": {
-      "figNumber": 37,
+      "figNumber": 38,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -297,7 +305,7 @@
       "caption": "Import Road Network from Existing Shapefile window"
     },
     "figure-37": {
-      "figNumber": 38,
+      "figNumber": 39,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -305,7 +313,7 @@
       "caption": "Showing a road network in the map window"
     },
     "figure-38": {
-      "figNumber": 39,
+      "figNumber": 40,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -313,7 +321,7 @@
       "caption": "Opening a road network’s attribute table"
     },
     "figure-39": {
-      "figNumber": 40,
+      "figNumber": 41,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -321,7 +329,7 @@
       "caption": "Cache Creek Levee road network – highway overpasses on Route 113"
     },
     "figure-40": {
-      "figNumber": 41,
+      "figNumber": 42,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -329,7 +337,7 @@
       "caption": "Updating vertical offsets in the Cache Creek Levee road network"
     },
     "figure-41": {
-      "figNumber": 42,
+      "figNumber": 43,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -337,7 +345,7 @@
       "caption": "Create new vector features file in LifeSim"
     },
     "figure-42": {
-      "figNumber": 43,
+      "figNumber": 44,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -345,7 +353,7 @@
       "caption": "Create New Vector Features File window"
     },
     "figure-43": {
-      "figNumber": 44,
+      "figNumber": 45,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -353,7 +361,7 @@
       "caption": "Saving new vector features file"
     },
     "figure-44": {
-      "figNumber": 45,
+      "figNumber": 46,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -361,7 +369,7 @@
       "caption": "Example of new vector file"
     },
     "figure-45": {
-      "figNumber": 46,
+      "figNumber": 47,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -369,7 +377,7 @@
       "caption": "Newly created destinations point shapefile in the Map Layers pane"
     },
     "figure-46": {
-      "figNumber": 47,
+      "figNumber": 48,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -377,7 +385,7 @@
       "caption": "Destination point shapefile for Cache Creek Levee"
     },
     "figure-47": {
-      "figNumber": 48,
+      "figNumber": 49,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -385,7 +393,7 @@
       "caption": "Destinations_CacheCreek Shapefile Attribute Table"
     },
     "figure-48": {
-      "figNumber": 49,
+      "figNumber": 50,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -393,7 +401,7 @@
       "caption": "Open Field Calculator tool within shapefile attribute table"
     },
     "figure-49": {
-      "figNumber": 50,
+      "figNumber": 51,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -401,7 +409,7 @@
       "caption": "Field Calculator window – Creating a new field"
     },
     "figure-50": {
-      "figNumber": 51,
+      "figNumber": 52,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -409,7 +417,7 @@
       "caption": "Attributes Table following field calculator edits"
     },
     "figure-51": {
-      "figNumber": 52,
+      "figNumber": 53,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -417,7 +425,7 @@
       "caption": "Attributes Table following entering unique names"
     },
     "figure-52": {
-      "figNumber": 53,
+      "figNumber": 54,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -425,7 +433,7 @@
       "caption": "Importing Destinations from Shapefile"
     },
     "figure-53": {
-      "figNumber": 54,
+      "figNumber": 55,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -433,7 +441,7 @@
       "caption": "Import Destinations from Point Shapefile window"
     },
     "figure-54": {
-      "figNumber": 55,
+      "figNumber": 56,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -441,7 +449,7 @@
       "caption": "Import Destinations from Point Shapefile - Destination Identifier Field dropdown"
     },
     "figure-55": {
-      "figNumber": 56,
+      "figNumber": 57,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -449,7 +457,7 @@
       "caption": "Create New Alternatives from Study pane"
     },
     "figure-56": {
-      "figNumber": 57,
+      "figNumber": 58,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -457,7 +465,7 @@
       "caption": "Create New Alternative window"
     },
     "figure-57": {
-      "figNumber": 58,
+      "figNumber": 59,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -465,7 +473,7 @@
       "caption": "LCL_TOL_Min Alternative for Cache Creek"
     },
     "figure-58": {
-      "figNumber": 59,
+      "figNumber": 60,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -473,7 +481,7 @@
       "caption": "Creating a New Simulation"
     },
     "figure-59": {
-      "figNumber": 60,
+      "figNumber": 61,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -481,7 +489,7 @@
       "caption": "Creating Breach Location 2 simulation for day (2 PM) and night (2 AM) hazard occurrence times"
     },
     "figure-60": {
-      "figNumber": 61,
+      "figNumber": 62,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -489,7 +497,7 @@
       "caption": "Locating Computation Engine Options in the Create New Simulation window"
     },
     "figure-61": {
-      "figNumber": 62,
+      "figNumber": 63,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -497,7 +505,7 @@
       "caption": "Editing Computation Engine Options"
     },
     "task-manager": {
-      "figNumber": 63,
+      "figNumber": 64,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -505,7 +513,7 @@
       "caption": "Setting number of threads based on user's computer capabilities (found in Task Manager)"
     },
     "figure-62": {
-      "figNumber": 64,
+      "figNumber": 65,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -513,7 +521,7 @@
       "caption": "Running a simulation"
     },
     "levee-plots-day": {
-      "figNumber": 65,
+      "figNumber": 66,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -521,7 +529,7 @@
       "caption": "Simulation Results Plots: Box and Whisker – Time of Day"
     },
     "levee-plots-alt": {
-      "figNumber": 66,
+      "figNumber": 67,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -529,7 +537,7 @@
       "caption": "Simulation Results Plots: Box and Whisker – Alternatives"
     },
     "levee-plots-road": {
-      "figNumber": 67,
+      "figNumber": 68,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -537,7 +545,7 @@
       "caption": "Simulation Results Plots: Box and Whisker – Time of Day Life Loss on Roads"
     },
     "figure-66": {
-      "figNumber": 68,
+      "figNumber": 69,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -545,7 +553,7 @@
       "caption": "Simulation Results Plots: Iterations"
     },
     "figure-67": {
-      "figNumber": 69,
+      "figNumber": 70,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -553,7 +561,7 @@
       "caption": "Simulation Results Plots: Detailed Output Results – Time Evacuating Histogram"
     },
     "figure-68": {
-      "figNumber": 70,
+      "figNumber": 71,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -561,7 +569,7 @@
       "caption": "Simulation Results Plots: Detailed Output Results – Cumulative Evacuation Outflow"
     },
     "figure-69": {
-      "figNumber": 71,
+      "figNumber": 72,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -569,7 +577,7 @@
       "caption": "Simulation Results Plots: Detailed Output Results – Cumulative Destinations Arrivals"
     },
     "figure-70": {
-      "figNumber": 72,
+      "figNumber": 73,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -577,7 +585,7 @@
       "caption": "Results Map Selector: What to select to animate evacuation"
     },
     "appguide-toggle-animation": {
-      "figNumber": 73,
+      "figNumber": 74,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -585,7 +593,7 @@
       "caption": "Example: Main Window - Animation Playback Toolbar - Evacuation Animation and Hydraulic Animation"
     },
     "evac-animation": {
-      "figNumber": 74,
+      "figNumber": 75,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -593,7 +601,7 @@
       "caption": "Animating evacuation"
     },
     "figure-72": {
-      "figNumber": 75,
+      "figNumber": 76,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -601,7 +609,7 @@
       "caption": "Simulation Results Maps – Sending Roads Summary maps to the Map window"
     },
     "figure-73": {
-      "figNumber": 76,
+      "figNumber": 77,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -609,7 +617,7 @@
       "caption": "Opening the Roads Summary Attribute Table"
     },
     "figure-74": {
-      "figNumber": 77,
+      "figNumber": 78,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -617,7 +625,7 @@
       "caption": "Roads Summary Attribute Table – sorting mean life loss in descending order"
     },
     "figure-75": {
-      "figNumber": 78,
+      "figNumber": 79,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -625,7 +633,7 @@
       "caption": "Simulation Results Maps – Sending Structure Summary maps to the Map window"
     },
     "figure-76": {
-      "figNumber": 79,
+      "figNumber": 80,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -633,7 +641,7 @@
       "caption": "Opening the Structure Summary Attribute Table"
     },
     "figure-77": {
-      "figNumber": 80,
+      "figNumber": 81,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -641,7 +649,7 @@
       "caption": "Structure Summary Attribute Table – sorting mean life loss in descending order"
     },
     "figure-78": {
-      "figNumber": 81,
+      "figNumber": 82,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -649,7 +657,7 @@
       "caption": "Zooming to the structure with highest mean life loss at 2 PM"
     },
     "figure-79": {
-      "figNumber": 82,
+      "figNumber": 83,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -657,7 +665,7 @@
       "caption": "Zoomed in to the highest mean life loss structure"
     },
     "figure-80": {
-      "figNumber": 83,
+      "figNumber": 84,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -665,7 +673,7 @@
       "caption": "Simulation Results Tables – Summary Averaged Results"
     },
     "figure-81": {
-      "figNumber": 84,
+      "figNumber": 85,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -673,7 +681,7 @@
       "caption": "Simulation Results Tables – Iteration Results – Generate Detailed Output"
     },
     "figure-82": {
-      "figNumber": 85,
+      "figNumber": 86,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -681,7 +689,7 @@
       "caption": "Simulation Results Tables – EPZ Results"
     },
     "figure-83": {
-      "figNumber": 86,
+      "figNumber": 87,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -689,7 +697,7 @@
       "caption": "Simulation Results Tables – Detailed Output Results"
     },
     "figure-84": {
-      "figNumber": 87,
+      "figNumber": 88,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -697,7 +705,7 @@
       "caption": "Export Table tool within the Results Table window"
     },
     "figure-85": {
-      "figNumber": 88,
+      "figNumber": 89,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
@@ -705,7 +713,7 @@
       "caption": "Simulation Summary Average Results table as an Excel file"
     },
     "figure-86": {
-      "figNumber": 89,
+      "figNumber": 90,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -713,7 +721,7 @@
       "caption": "Pairwise Buffer and Simplify Polygon tools"
     },
     "gif-gis-vertices": {
-      "figNumber": 90,
+      "figNumber": 91,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -721,7 +729,7 @@
       "caption": "Deleting Vertices for the final Study Area polygon"
     },
     "gif-delete-blobs": {
-      "figNumber": 91,
+      "figNumber": 92,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -729,7 +737,7 @@
       "caption": "Deleting Disconnected Polygons for the final Study Area polygon"
     },
     "gif-split-inpool": {
-      "figNumber": 92,
+      "figNumber": 93,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -737,7 +745,7 @@
       "caption": "Splitting the In-Pool Area and Downstream areas for the EPZ_NoDoubleWarning shapefile"
     },
     "figure-89": {
-      "figNumber": 93,
+      "figNumber": 94,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -745,7 +753,7 @@
       "caption": "Adding a Name Field to the EPZ_NoDoubleWarning shapefile"
     },
     "figure-90": {
-      "figNumber": 94,
+      "figNumber": 95,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -753,7 +761,7 @@
       "caption": "Naming the Downstream and In-Pool areas"
     },
     "figure-91": {
-      "figNumber": 95,
+      "figNumber": 96,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -761,7 +769,7 @@
       "caption": "Union Tool in ArcGIS Pro"
     },
     "figure-92": {
-      "figNumber": 96,
+      "figNumber": 97,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -769,7 +777,7 @@
       "caption": "Naming Conventions for the EPZ_MHP_DoubleWarning shapefile"
     },
     "figure-93": {
-      "figNumber": 97,
+      "figNumber": 98,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -777,7 +785,7 @@
       "caption": "Merging the two In-Pool areas in ArcGIS Pro"
     },
     "manual-measure": {
-      "figNumber": 98,
+      "figNumber": 99,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -785,7 +793,7 @@
       "caption": "ArcGIS Pro Measure Tool: Manually measuring for mileage reach polygon"
     },
     "figure-94": {
-      "figNumber": 99,
+      "figNumber": 100,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -793,7 +801,7 @@
       "caption": "Creating a Mileage Reach polygon Based on cross sections"
     },
     "figure-95": {
-      "figNumber": 100,
+      "figNumber": 101,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -801,7 +809,7 @@
       "caption": "Naming conventions for the Mileage Reach polygon"
     },
     "figure-96": {
-      "figNumber": 101,
+      "figNumber": 102,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -809,7 +817,7 @@
       "caption": "Select by location window"
     },
     "figure-97": {
-      "figNumber": 102,
+      "figNumber": 103,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -817,7 +825,7 @@
       "caption": "Importing hydraulic data from HEC-RAS"
     },
     "figure-98": {
-      "figNumber": 103,
+      "figNumber": 104,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -825,7 +833,7 @@
       "caption": "Import from HEC-RAS window"
     },
     "figure-99": {
-      "figNumber": 104,
+      "figNumber": 105,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -833,7 +841,7 @@
       "caption": "RAS Map Data Selector window"
     },
     "figure-100": {
-      "figNumber": 105,
+      "figNumber": 106,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -841,7 +849,7 @@
       "caption": "Select Hydrograph Tool in the RAS Map Data Selector"
     },
     "figure-101": {
-      "figNumber": 106,
+      "figNumber": 107,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -849,7 +857,7 @@
       "caption": "Add Data feature in the RAS Map Data Selector"
     },
     "figure-102": {
-      "figNumber": 107,
+      "figNumber": 108,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -857,7 +865,7 @@
       "caption": "Progress Window in the RAS Map Data Selector after clicking on an area with the Select Hydrograph tool"
     },
     "figure-103": {
-      "figNumber": 108,
+      "figNumber": 109,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -865,7 +873,7 @@
       "caption": "Import from HEC-RAS window following selection of a representative hydrograph from RAS Map Data Selector"
     },
     "figure-104": {
-      "figNumber": 109,
+      "figNumber": 110,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -873,7 +881,7 @@
       "caption": "Importing Structures from Shapefile from the Study Pane"
     },
     "figure-105": {
-      "figNumber": 110,
+      "figNumber": 111,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -881,7 +889,7 @@
       "caption": "Importing National Structure Inventory 2.0 into LifeSim – Defining structure attributes"
     },
     "figure-106": {
-      "figNumber": 111,
+      "figNumber": 112,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -889,7 +897,7 @@
       "caption": "Importing National Structure Inventory 2019 – Assigning occupancy types"
     },
     "figure-107": {
-      "figNumber": 112,
+      "figNumber": 113,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -897,7 +905,7 @@
       "caption": "Importing National Structure Inventory 2.0 – Assigning stability criteria"
     },
     "figure-108": {
-      "figNumber": 113,
+      "figNumber": 114,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -905,7 +913,7 @@
       "caption": "Warning and Mobilization Timeline"
     },
     "figure-109": {
-      "figNumber": 114,
+      "figNumber": 115,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -913,7 +921,7 @@
       "caption": "Import EPZs from Shapefile"
     },
     "figure-110": {
-      "figNumber": 115,
+      "figNumber": 116,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -921,7 +929,7 @@
       "caption": "Showing the 3 Areas in the “EPZ_MHP_DoubleWarning” EPZ"
     },
     "figure-111": {
-      "figNumber": 116,
+      "figNumber": 117,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -929,7 +937,7 @@
       "caption": "Unknown Warning Issuance Delay curve"
     },
     "figure-112": {
-      "figNumber": 117,
+      "figNumber": 118,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -937,7 +945,7 @@
       "caption": "Unknown Daytime First Alert curve"
     },
     "figure-113": {
-      "figNumber": 118,
+      "figNumber": 119,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -945,7 +953,7 @@
       "caption": "PAI Curve Preparedness Unknown, Perception Unknown"
     },
     "figure-114": {
-      "figNumber": 119,
+      "figNumber": 120,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -953,7 +961,7 @@
       "caption": "Creating New Alternatives in LifeSim"
     },
     "figure-115": {
-      "figNumber": 120,
+      "figNumber": 121,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -961,7 +969,7 @@
       "caption": "MHP Breach with Minimal Warning alternative"
     },
     "figure-116": {
-      "figNumber": 121,
+      "figNumber": 122,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -969,7 +977,7 @@
       "caption": "MHP BreachEPZ Imminent Hazard ID Time and Hazard Communication Delay"
     },
     "figure-117": {
-      "figNumber": 122,
+      "figNumber": 123,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -977,7 +985,7 @@
       "caption": "MHP InPoolEPZ Imminent Hazard ID Time and Hazard Communication Delay"
     },
     "figure-118": {
-      "figNumber": 123,
+      "figNumber": 124,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -985,7 +993,7 @@
       "caption": "IHP BreachEPZ Minimal Warning Imminent Hazard ID Time and Hazard Communication Delay"
     },
     "figure-119": {
-      "figNumber": 124,
+      "figNumber": 125,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -993,7 +1001,7 @@
       "caption": "List of Curwensville Dam Failure Alternatives"
     },
     "figure-120": {
-      "figNumber": 125,
+      "figNumber": 126,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -1001,7 +1009,7 @@
       "caption": "MHP_Breach_AmpleWarn Alternative"
     },
     "figure-121": {
-      "figNumber": 126,
+      "figNumber": 127,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -1009,7 +1017,7 @@
       "caption": "Complete List of Curwensville Dam Alternatives"
     },
     "figure-122": {
-      "figNumber": 127,
+      "figNumber": 128,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -1017,7 +1025,7 @@
       "caption": "Creating the Test_Sim Simulation"
     },
     "figure-123": {
-      "figNumber": 128,
+      "figNumber": 129,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -1025,7 +1033,7 @@
       "caption": "Creating the MH_Sims and IH_Sims simulations"
     },
     "figure-124": {
-      "figNumber": 129,
+      "figNumber": 130,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -1033,7 +1041,7 @@
       "caption": "Curwensville Dam Simulation list"
     },
     "figure-125": {
-      "figNumber": 130,
+      "figNumber": 131,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -1041,7 +1049,7 @@
       "caption": "Viewing TestSim’s Results Table"
     },
     "figure-126": {
-      "figNumber": 131,
+      "figNumber": 132,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -1049,7 +1057,7 @@
       "caption": "TestSim Results Tables – Summary Average Results tab"
     },
     "figure-127": {
-      "figNumber": 132,
+      "figNumber": 133,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -1057,7 +1065,7 @@
       "caption": "How to Show the Structure Inventory in the Map Window"
     },
     "figure-128": {
-      "figNumber": 133,
+      "figNumber": 134,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -1065,7 +1073,7 @@
       "caption": "How to Add Web Imagery to the Map Window"
     },
     "figure-129": {
-      "figNumber": 134,
+      "figNumber": 135,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -1073,7 +1081,7 @@
       "caption": "Viewing TestSim’s Results Maps"
     },
     "figure-130": {
-      "figNumber": 135,
+      "figNumber": 136,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -1081,7 +1089,7 @@
       "caption": "Results Map Selector window"
     },
     "figure-131": {
-      "figNumber": 136,
+      "figNumber": 137,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -1089,7 +1097,7 @@
       "caption": "Structure Summary Properties – Editing the map properties"
     },
     "figure-132": {
-      "figNumber": 137,
+      "figNumber": 138,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -1097,7 +1105,7 @@
       "caption": "Map Window with the Structure Inventory and TAS_NonBreach Structure Summary shapefiles"
     },
     "figure-133": {
-      "figNumber": 138,
+      "figNumber": 139,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -1105,7 +1113,7 @@
       "caption": "Editing the Structure Inventory from the Map Layers pane"
     },
     "figure-134": {
-      "figNumber": 139,
+      "figNumber": 140,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -1113,7 +1121,7 @@
       "caption": "LifeSim Editor Toolbar in the Map window"
     },
     "figure-135": {
-      "figNumber": 140,
+      "figNumber": 141,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -1121,7 +1129,7 @@
       "caption": "Selecting Multiple Structure Points in the LifeSim Map window"
     },
     "figure-136": {
-      "figNumber": 141,
+      "figNumber": 142,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -1129,7 +1137,7 @@
       "caption": "Moving a Structure from the Structure Inventory"
     },
     "figure-137": {
-      "figNumber": 142,
+      "figNumber": 143,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -1137,7 +1145,7 @@
       "caption": "Saving your Structure Inventory Edits and How to Stop Editing"
     },
     "figure-138": {
-      "figNumber": 143,
+      "figNumber": 144,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -1145,7 +1153,7 @@
       "caption": "View Updated TestSim Results Tables"
     },
     "figure-139": {
-      "figNumber": 144,
+      "figNumber": 145,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -1153,7 +1161,7 @@
       "caption": "Mean Life Loss Heat Map"
     },
     "figure-140": {
-      "figNumber": 145,
+      "figNumber": 146,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -1161,7 +1169,7 @@
       "caption": "Zoom to Specific Structures from the Structure Summary Attribute Table"
     },
     "figure-141": {
-      "figNumber": 146,
+      "figNumber": 147,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -1169,7 +1177,7 @@
       "caption": "Identifying High Life Loss Structures in the Map Window"
     },
     "figure-142": {
-      "figNumber": 147,
+      "figNumber": 148,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -1177,7 +1185,7 @@
       "caption": "fid 688 (EDU1) structure attributes"
     },
     "figure-143": {
-      "figNumber": 148,
+      "figNumber": 149,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -1185,7 +1193,7 @@
       "caption": "Google Maps Search Results for Clearfield Area High School"
     },
     "figure-144": {
-      "figNumber": 149,
+      "figNumber": 150,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -1193,7 +1201,7 @@
       "caption": "ESRI Imagery versus Mapbox Imagery"
     },
     "figure-145": {
-      "figNumber": 150,
+      "figNumber": 151,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -1201,7 +1209,7 @@
       "caption": "Investigating the second highest life loss structure for the MHP_Breach_MinWarn alternative"
     },
     "figure-146": {
-      "figNumber": 151,
+      "figNumber": 152,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
@@ -1209,7 +1217,7 @@
       "caption": "Updated structure attributes for the EDU1 structures (number of stories)"
     },
     "figure-147": {
-      "figNumber": 152,
+      "figNumber": 153,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "06-modeling-cascading-dam-failures-in-lifesim.mdx",
@@ -1217,7 +1225,7 @@
       "caption": "Splitting the existing MHP EPZ double warning shapefile at Ft. Randall Dam"
     },
     "figure-148": {
-      "figNumber": 153,
+      "figNumber": 154,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "06-modeling-cascading-dam-failures-in-lifesim.mdx",
@@ -1225,7 +1233,7 @@
       "caption": "EPZ naming examples"
     },
     "figure-149": {
-      "figNumber": 154,
+      "figNumber": 155,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "06-modeling-cascading-dam-failures-in-lifesim.mdx",
@@ -1233,7 +1241,7 @@
       "caption": "MHP NonCascading Failure Minimal Warning Alternative"
     },
     "figure-150": {
-      "figNumber": 155,
+      "figNumber": 156,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "06-modeling-cascading-dam-failures-in-lifesim.mdx",
@@ -1241,7 +1249,7 @@
       "caption": "Modeling Option 1: MHP Cascading alternative for Option 1 Failure Minimal Warning alternative"
     },
     "figure-151": {
-      "figNumber": 156,
+      "figNumber": 157,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "06-modeling-cascading-dam-failures-in-lifesim.mdx",
@@ -1249,7 +1257,7 @@
       "caption": "Modeling Option 2: MHP Cascading Breach Minimal Warning Alternative – Warning for areas between Oahe Dam and Ft Randall Dam"
     },
     "figure-152": {
-      "figNumber": 157,
+      "figNumber": 158,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "06-modeling-cascading-dam-failures-in-lifesim.mdx",
@@ -1257,7 +1265,7 @@
       "caption": "Modeling Option 2: MHP Cascading Breach Minimal Warning alternative – Warning for areas downstream of Ft Randall Dam relative to Ft Randall’s breach time"
     },
     "figure-153": {
-      "figNumber": 158,
+      "figNumber": 159,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "07-estimating-consequences-for-coastal-infrastructure.mdx",
@@ -1265,7 +1273,7 @@
       "caption": "SSSI breach locations"
     },
     "figure-154": {
-      "figNumber": 159,
+      "figNumber": 160,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "07-estimating-consequences-for-coastal-infrastructure.mdx",
@@ -1273,7 +1281,7 @@
       "caption": "SSSI structure inventory"
     },
     "figure-155": {
-      "figNumber": 160,
+      "figNumber": 161,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "07-estimating-consequences-for-coastal-infrastructure.mdx",
@@ -1281,7 +1289,7 @@
       "caption": "SSSI road network and destinations"
     },
     "figure-156": {
-      "figNumber": 161,
+      "figNumber": 162,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "07-estimating-consequences-for-coastal-infrastructure.mdx",
@@ -1289,7 +1297,7 @@
       "caption": "Example SSSI wave/wind-overtopping hydrograph"
     },
     "figure-157": {
-      "figNumber": 162,
+      "figNumber": 163,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "07-estimating-consequences-for-coastal-infrastructure.mdx",
@@ -1297,7 +1305,7 @@
       "caption": "Shelter-In-Place Protective Action Initiation curve"
     },
     "figure-158": {
-      "figNumber": 163,
+      "figNumber": 164,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "07-estimating-consequences-for-coastal-infrastructure.mdx",
@@ -1305,7 +1313,7 @@
       "caption": "New York City Emergency Management website"
     },
     "figure-159": {
-      "figNumber": 164,
+      "figNumber": 165,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "07-estimating-consequences-for-coastal-infrastructure.mdx",
@@ -1313,7 +1321,7 @@
       "caption": "Available coastal preparedness information to site users"
     },
     "figure-160": {
-      "figNumber": 165,
+      "figNumber": 166,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "07-estimating-consequences-for-coastal-infrastructure.mdx",
@@ -1321,7 +1329,7 @@
       "caption": "Coastal storm preparedness information for Staten Island (PDF)"
     },
     "figure-161": {
-      "figNumber": 166,
+      "figNumber": 167,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "07-estimating-consequences-for-coastal-infrastructure.mdx",
@@ -1329,7 +1337,7 @@
       "caption": "SSSI EPZ in LifeSim and evacuation zones"
     },
     "figure-162": {
-      "figNumber": 167,
+      "figNumber": 168,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "07-estimating-consequences-for-coastal-infrastructure.mdx",
@@ -1337,7 +1345,7 @@
       "caption": "Adjusted foundation heights in the SSSI LifeSim model"
     },
     "figure-163": {
-      "figNumber": 168,
+      "figNumber": 169,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "07-estimating-consequences-for-coastal-infrastructure.mdx",
@@ -1345,7 +1353,7 @@
       "caption": "Example of a minimal warning alternative from the SSSI Study"
     },
     "figure-164": {
-      "figNumber": 169,
+      "figNumber": 170,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "07-estimating-consequences-for-coastal-infrastructure.mdx",
@@ -1353,7 +1361,7 @@
       "caption": "Example of an ample (somewhat optimistic) warning alternative from the SSSI Study"
     },
     "figure-165": {
-      "figNumber": 170,
+      "figNumber": 171,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "07-estimating-consequences-for-coastal-infrastructure.mdx",
@@ -1361,7 +1369,7 @@
       "caption": "Example of an optimal warning alternative from the SSSI Study"
     },
     "figure-166": {
-      "figNumber": 171,
+      "figNumber": 172,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "07-estimating-consequences-for-coastal-infrastructure.mdx",
@@ -1369,7 +1377,7 @@
       "caption": "Example of inundation depth ranges (feet) for the SSSI Study (Levee Control Location 1ft OT Failure)"
     },
     "figure-167": {
-      "figNumber": 172,
+      "figNumber": 173,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "07-estimating-consequences-for-coastal-infrastructure.mdx",
@@ -1377,7 +1385,7 @@
       "caption": "Example of 2 feet inundation arrival times for the SSSI study (Levee Control Location 1ft OT Failure)"
     },
     "figure-168": {
-      "figNumber": 173,
+      "figNumber": 174,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "07-estimating-consequences-for-coastal-infrastructure.mdx",
@@ -1385,7 +1393,7 @@
       "caption": "Spatial distribution of life loss for the SSSI study (Levee Control Location 1ft OT Failure/Minimal Warning)"
     },
     "figure-169": {
-      "figNumber": 174,
+      "figNumber": 175,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "07-estimating-consequences-for-coastal-infrastructure.mdx",
@@ -1393,7 +1401,7 @@
       "caption": "Structure summary attributes for the SSSI study (Levee Control Location 1ft OT Failure/Minimal Warning)"
     },
     "figure-170": {
-      "figNumber": 175,
+      "figNumber": 176,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "07-estimating-consequences-for-coastal-infrastructure.mdx",
@@ -1401,7 +1409,7 @@
       "caption": "Structure 11537: example calibration process for the SSSI study"
     },
     "figure-171": {
-      "figNumber": 176,
+      "figNumber": 177,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "07-estimating-consequences-for-coastal-infrastructure.mdx",
@@ -1409,7 +1417,7 @@
       "caption": "Mean life loss on roads for the SSSI study (Levee Control Location 1ft OT Failure/Minimal Warning)"
     },
     "figure-172": {
-      "figNumber": 177,
+      "figNumber": 178,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "08-estimating-life-loss-in-planning-comparing-alternatives-for-riverine-coastal-flooding.mdx",
@@ -1417,7 +1425,7 @@
       "caption": "Ala Wai LifeSim model - hydraulic events"
     },
     "figure-173": {
-      "figNumber": 178,
+      "figNumber": 179,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "08-estimating-life-loss-in-planning-comparing-alternatives-for-riverine-coastal-flooding.mdx",
@@ -1425,7 +1433,7 @@
       "caption": "Ala Wai EPZs"
     },
     "figure-174": {
-      "figNumber": 179,
+      "figNumber": 180,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "08-estimating-life-loss-in-planning-comparing-alternatives-for-riverine-coastal-flooding.mdx",
@@ -1433,7 +1441,7 @@
       "caption": "Hazard occurrence times by reach and event – Alternative 2B"
     },
     "figure-175": {
-      "figNumber": 180,
+      "figNumber": 181,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "09-estimating-direct-economic-damages.mdx",
@@ -1441,7 +1449,7 @@
       "caption": "Ala Wai hydraulic events and alternatives"
     },
     "figure-176": {
-      "figNumber": 181,
+      "figNumber": 182,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "09-estimating-direct-economic-damages.mdx",
@@ -1449,7 +1457,7 @@
       "caption": "Occupancy types in the Study pane"
     },
     "figure-177": {
-      "figNumber": 182,
+      "figNumber": 183,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "09-estimating-direct-economic-damages.mdx",
@@ -1457,7 +1465,7 @@
       "caption": "RES1-1SNB default depth-damage function from EGM 04-01"
     },
     "figure-178": {
-      "figNumber": 183,
+      "figNumber": 184,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "09-estimating-direct-economic-damages.mdx",
@@ -1465,7 +1473,7 @@
       "caption": "EDU1 default depth-damage function from HAZUS"
     },
     "figure-179": {
-      "figNumber": 184,
+      "figNumber": 185,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "09-estimating-direct-economic-damages.mdx",
@@ -1473,7 +1481,7 @@
       "caption": "EDU1 default depth-damage function – uncertainty distribution options"
     },
     "figure-180": {
-      "figNumber": 185,
+      "figNumber": 186,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "09-estimating-direct-economic-damages.mdx",
@@ -1481,7 +1489,7 @@
       "caption": "EDU1 depth-damage function with uniform uncertainty distribution"
     },
     "figure-181": {
-      "figNumber": 186,
+      "figNumber": 187,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "09-estimating-direct-economic-damages.mdx",
@@ -1489,7 +1497,7 @@
       "caption": "EDU1 default depth-damage function – variation in structure value as % uncertainty distribution options"
     },
     "figure-182": {
-      "figNumber": 187,
+      "figNumber": 188,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "09-estimating-direct-economic-damages.mdx",
@@ -1497,7 +1505,7 @@
       "caption": "EDU1 variation in structure value as %, triangular distribution"
     },
     "figure-183": {
-      "figNumber": 188,
+      "figNumber": 189,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "09-estimating-direct-economic-damages.mdx",
@@ -1505,7 +1513,7 @@
       "caption": "EDU1 depth-damage function – foundation height offset uncertainty type options"
     },
     "figure-184": {
-      "figNumber": 189,
+      "figNumber": 190,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "09-estimating-direct-economic-damages.mdx",
@@ -1513,7 +1521,7 @@
       "caption": "EDU1 depth-damage function with a defined foundation height offset uncertainty"
     },
     "figure-185": {
-      "figNumber": 190,
+      "figNumber": 191,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "09-estimating-direct-economic-damages.mdx",
@@ -1521,7 +1529,7 @@
       "caption": "LifeSim alternative to compute economic damages"
     },
     "figure-186": {
-      "figNumber": 191,
+      "figNumber": 192,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "09-estimating-direct-economic-damages.mdx",
@@ -1529,7 +1537,7 @@
       "caption": "Ala Wai economic damage reaches"
     },
     "figure-187": {
-      "figNumber": 192,
+      "figNumber": 193,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "10-using-summary-grids-in-lifesim.mdx",
@@ -1537,7 +1545,7 @@
       "caption": "Import from Summary Grids option"
     },
     "figure-188": {
-      "figNumber": 193,
+      "figNumber": 194,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "10-using-summary-grids-in-lifesim.mdx",
@@ -1545,7 +1553,7 @@
       "caption": "Import from Summary Grids window"
     },
     "figure-189": {
-      "figNumber": 194,
+      "figNumber": 195,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "10-using-summary-grids-in-lifesim.mdx",
@@ -1553,7 +1561,7 @@
       "caption": "Interim MHP failure grids import (1)"
     },
     "figure-190": {
-      "figNumber": 195,
+      "figNumber": 196,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "10-using-summary-grids-in-lifesim.mdx",
@@ -1561,7 +1569,7 @@
       "caption": "Interim MHP failure grids import (2)"
     },
     "figure-191": {
-      "figNumber": 196,
+      "figNumber": 197,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "10-using-summary-grids-in-lifesim.mdx",
@@ -1569,7 +1577,7 @@
       "caption": "Hydrograph definition"
     },
     "figure-192": {
-      "figNumber": 197,
+      "figNumber": 198,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "10-using-summary-grids-in-lifesim.mdx",
@@ -1577,7 +1585,7 @@
       "caption": "Selecting Hydrograph and Timing Information for the Clearwater Dam MHP failure scenario"
     },
     "figure-193": {
-      "figNumber": 198,
+      "figNumber": 199,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "10-using-summary-grids-in-lifesim.mdx",
@@ -1585,7 +1593,7 @@
       "caption": "Example graph showing the point (Hazard Occurrence Time) at which the hazard occurs (e.g., dam failure)"
     },
     "figure-194": {
-      "figNumber": 199,
+      "figNumber": 200,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "10-using-summary-grids-in-lifesim.mdx",
@@ -1645,146 +1653,140 @@
   },
   "equations": {},
   "citations": {
-    "HCM2000": {
-      "citationNumber": 1,
-      "parentDocId": "lifesim-applications-guide-v1.0",
-      "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
-      "docId": "01-preface.mdx"
-    },
-    "OSM": {
-      "citationNumber": 2,
-      "parentDocId": "lifesim-applications-guide-v1.0",
-      "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
-      "docId": "01-preface.mdx"
-    },
     "FDA": {
-      "citationNumber": 3,
+      "citationNumber": 1,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "02-introduction.mdx"
     },
     "HECRAS2024": {
-      "citationNumber": 4,
+      "citationNumber": 2,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "02-introduction.mdx"
     },
     "FLO2022": {
-      "citationNumber": 5,
+      "citationNumber": 3,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "03-summary-of-lifesim-inputs.mdx"
     },
     "NSIDatabase": {
-      "citationNumber": 6,
+      "citationNumber": 4,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "03-summary-of-lifesim-inputs.mdx"
     },
     "GoogleEarth2015": {
-      "citationNumber": 7,
+      "citationNumber": 5,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "03-summary-of-lifesim-inputs.mdx"
     },
     "FEMA2025": {
-      "citationNumber": 8,
+      "citationNumber": 6,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "03-summary-of-lifesim-inputs.mdx"
     },
     "NLD": {
-      "citationNumber": 9,
+      "citationNumber": 7,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx"
     },
     "LST": {
-      "citationNumber": 10,
+      "citationNumber": 8,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx"
     },
     "YoloEMA": {
-      "citationNumber": 11,
+      "citationNumber": 9,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx"
     },
     "CBSnews": {
-      "citationNumber": 12,
+      "citationNumber": 10,
+      "parentDocId": "lifesim-applications-guide-v1.0",
+      "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
+      "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx"
+    },
+    "OSM": {
+      "citationNumber": 11,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx"
     },
     "USCensus1992": {
-      "citationNumber": 13,
+      "citationNumber": 12,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx"
     },
     "ESRI2015": {
-      "citationNumber": 14,
+      "citationNumber": 13,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx"
     },
     "TIGER2025": {
-      "citationNumber": 15,
+      "citationNumber": 14,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx"
     },
     "NSI": {
-      "citationNumber": 16,
+      "citationNumber": 15,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "06-modeling-cascading-dam-failures-in-lifesim.mdx"
     },
     "NYCEM": {
-      "citationNumber": 17,
+      "citationNumber": 16,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "07-estimating-consequences-for-coastal-infrastructure.mdx"
     },
     "PB201904": {
-      "citationNumber": 18,
+      "citationNumber": 17,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "08-estimating-life-loss-in-planning-comparing-alternatives-for-riverine-coastal-flooding.mdx"
     },
     "CompBenefitsMemo2021": {
-      "citationNumber": 19,
+      "citationNumber": 18,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "08-estimating-life-loss-in-planning-comparing-alternatives-for-riverine-coastal-flooding.mdx"
     },
     "ER1105": {
-      "citationNumber": 20,
+      "citationNumber": 19,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "08-estimating-life-loss-in-planning-comparing-alternatives-for-riverine-coastal-flooding.mdx"
     },
     "G2CRM": {
-      "citationNumber": 21,
+      "citationNumber": 20,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "08-estimating-life-loss-in-planning-comparing-alternatives-for-riverine-coastal-flooding.mdx"
     },
     "EGM0401": {
-      "citationNumber": 22,
+      "citationNumber": 21,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "09-estimating-direct-economic-damages.mdx"
     },
     "EM1619": {
-      "citationNumber": 23,
+      "citationNumber": 22,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "09-estimating-direct-economic-damages.mdx"
     },
     "FDAManual2023": {
-      "citationNumber": 24,
+      "citationNumber": 23,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "09-estimating-direct-economic-damages.mdx"
