@@ -1022,7 +1022,7 @@
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx",
       "src": "figures/desktop-applications/lifesim/applications-guide/v1.0/figures/figure122.png",
-      "caption": "Creating the Test_Sim Simulation"
+      "caption": "Creating the TestSim Simulation"
     },
     "figure-123": {
       "figNumber": 129,
@@ -1374,7 +1374,7 @@
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "07-estimating-consequences-for-coastal-infrastructure.mdx",
       "src": "figures/desktop-applications/lifesim/applications-guide/v1.0/figures/figure166B.png",
-      "caption": "Example of inundation depth ranges (feet) for the SSSI Study (Levee Control Location 1ft OT Failure)"
+      "caption": "Example of inundation depth ranges (feet) for the SSSI Study (Levee Control Location 1 ft OT Failure)"
     },
     "figure-167": {
       "figNumber": 173,
@@ -1382,7 +1382,7 @@
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "07-estimating-consequences-for-coastal-infrastructure.mdx",
       "src": "figures/desktop-applications/lifesim/applications-guide/v1.0/figures/figure167.png",
-      "caption": "Example of 2 feet inundation arrival times for the SSSI study (Levee Control Location 1ft OT Failure)"
+      "caption": "Example of 2 ft inundation arrival times for the SSSI study (Levee Control Location 1 ft OT Failure)"
     },
     "figure-168": {
       "figNumber": 174,
@@ -1390,7 +1390,7 @@
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "07-estimating-consequences-for-coastal-infrastructure.mdx",
       "src": "figures/desktop-applications/lifesim/applications-guide/v1.0/figures/figure168B.png",
-      "caption": "Spatial distribution of life loss for the SSSI study (Levee Control Location 1ft OT Failure/Minimal Warning)"
+      "caption": "Spatial distribution of life loss for the SSSI study (Levee Control Location 1 ft OT Failure/Minimal Warning)"
     },
     "figure-169": {
       "figNumber": 175,
@@ -1398,7 +1398,7 @@
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "07-estimating-consequences-for-coastal-infrastructure.mdx",
       "src": "figures/desktop-applications/lifesim/applications-guide/v1.0/figures/figure169.png",
-      "caption": "Structure summary attributes for the SSSI study (Levee Control Location 1ft OT Failure/Minimal Warning)"
+      "caption": "Structure summary attributes for the SSSI study (Levee Control Location 1 ft OT Failure/Minimal Warning)"
     },
     "figure-170": {
       "figNumber": 176,
@@ -1414,7 +1414,7 @@
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "07-estimating-consequences-for-coastal-infrastructure.mdx",
       "src": "figures/desktop-applications/lifesim/applications-guide/v1.0/figures/figure171.png",
-      "caption": "Mean life loss on roads for the SSSI study (Levee Control Location 1ft OT Failure/Minimal Warning)"
+      "caption": "Mean life loss on roads for the SSSI study (Levee Control Location 1 ft OT Failure/Minimal Warning)"
     },
     "figure-172": {
       "figNumber": 178,
@@ -1737,56 +1737,50 @@
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "05-estimating-consequences-for-dams.mdx"
     },
-    "NSI": {
-      "citationNumber": 15,
-      "parentDocId": "lifesim-applications-guide-v1.0",
-      "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
-      "docId": "06-modeling-cascading-dam-failures-in-lifesim.mdx"
-    },
     "NYCEM": {
-      "citationNumber": 16,
+      "citationNumber": 15,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "07-estimating-consequences-for-coastal-infrastructure.mdx"
     },
     "PB201904": {
-      "citationNumber": 17,
+      "citationNumber": 16,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "08-estimating-life-loss-in-planning-comparing-alternatives-for-riverine-coastal-flooding.mdx"
     },
     "CompBenefitsMemo2021": {
-      "citationNumber": 18,
+      "citationNumber": 17,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "08-estimating-life-loss-in-planning-comparing-alternatives-for-riverine-coastal-flooding.mdx"
     },
     "ER1105": {
-      "citationNumber": 19,
+      "citationNumber": 18,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "08-estimating-life-loss-in-planning-comparing-alternatives-for-riverine-coastal-flooding.mdx"
     },
     "G2CRM": {
-      "citationNumber": 20,
+      "citationNumber": 19,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "08-estimating-life-loss-in-planning-comparing-alternatives-for-riverine-coastal-flooding.mdx"
     },
     "EGM0401": {
-      "citationNumber": 21,
+      "citationNumber": 20,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "09-estimating-direct-economic-damages.mdx"
     },
     "EM1619": {
-      "citationNumber": 22,
+      "citationNumber": 21,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "09-estimating-direct-economic-damages.mdx"
     },
     "FDAManual2023": {
-      "citationNumber": 23,
+      "citationNumber": 22,
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "09-estimating-direct-economic-damages.mdx"
