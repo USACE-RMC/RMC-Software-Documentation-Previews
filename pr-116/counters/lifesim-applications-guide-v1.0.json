@@ -13,7 +13,7 @@
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "03-summary-of-lifesim-inputs.mdx",
-      "src": "figures/desktop-applications/lifesim/applications-guide/v1.0/figures/introfigure.png",
+      "src": "figures/desktop-applications/lifesim/applications-guide/v1.0/figures/IntroFigure.png",
       "caption": "Importing a structure inventory with missing values"
     },
     "figure-2": {
@@ -533,7 +533,7 @@
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
-      "src": "figures/desktop-applications/lifesim/applications-guide/v1.0/figures/leveeplotsalt.png",
+      "src": "figures/desktop-applications/lifesim/applications-guide/v1.0/figures/LeveePlotsAlt.png",
       "caption": "Simulation Results Plots: Box and Whisker – Alternatives"
     },
     "levee-plots-road": {
@@ -541,7 +541,7 @@
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
-      "src": "figures/desktop-applications/lifesim/applications-guide/v1.0/figures/leveeplotsroad.png",
+      "src": "figures/desktop-applications/lifesim/applications-guide/v1.0/figures/LeveePlotsRoad.png",
       "caption": "Simulation Results Plots: Box and Whisker – Time of Day Life Loss on Roads"
     },
     "figure-66": {
@@ -549,7 +549,7 @@
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
-      "src": "figures/desktop-applications/lifesim/applications-guide/v1.0/figures/leveeiteration.png",
+      "src": "figures/desktop-applications/lifesim/applications-guide/v1.0/figures/LeveeIteration.png",
       "caption": "Simulation Results Plots: Iterations"
     },
     "figure-67": {
@@ -557,7 +557,7 @@
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
-      "src": "figures/desktop-applications/lifesim/applications-guide/v1.0/figures/histograms.png",
+      "src": "figures/desktop-applications/lifesim/applications-guide/v1.0/figures/Histograms.png",
       "caption": "Simulation Results Plots: Detailed Output Results – Time Evacuating Histogram"
     },
     "figure-68": {
@@ -613,7 +613,7 @@
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
-      "src": "figures/desktop-applications/lifesim/applications-guide/v1.0/figures/roadatttable.png",
+      "src": "figures/desktop-applications/lifesim/applications-guide/v1.0/figures/RoadAttTable.png",
       "caption": "Opening the Roads Summary Attribute Table"
     },
     "figure-74": {
@@ -645,7 +645,7 @@
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
-      "src": "figures/desktop-applications/lifesim/applications-guide/v1.0/figures/lifelosssort.png",
+      "src": "figures/desktop-applications/lifesim/applications-guide/v1.0/figures/LifeLossSort.png",
       "caption": "Structure Summary Attribute Table – sorting mean life loss in descending order"
     },
     "figure-78": {
@@ -653,7 +653,7 @@
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
-      "src": "figures/desktop-applications/lifesim/applications-guide/v1.0/figures/bl2lifelosstable.png",
+      "src": "figures/desktop-applications/lifesim/applications-guide/v1.0/figures/BL2LifeLossTable.png",
       "caption": "Zooming to the structure with highest mean life loss at 2 PM"
     },
     "figure-79": {
@@ -661,7 +661,7 @@
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
-      "src": "figures/desktop-applications/lifesim/applications-guide/v1.0/figures/highllstructure.png",
+      "src": "figures/desktop-applications/lifesim/applications-guide/v1.0/figures/HighLLstructure.png",
       "caption": "Zoomed in to the highest mean life loss structure"
     },
     "figure-80": {
@@ -701,7 +701,7 @@
       "parentDocId": "lifesim-applications-guide-v1.0",
       "parentDocPath": "desktop-applications/lifesim/applications-guide/v1.0",
       "docId": "04-estimating-consequences-for-levees-and-floodwalls.mdx",
-      "src": "figures/desktop-applications/lifesim/applications-guide/v1.0/figures/figure84B.png",
+      "src": "figures/desktop-applications/lifesim/applications-guide/v1.0/figures/Figure84B.png",
       "caption": "Export Table tool within the Results Table window"
     },
     "figure-85": {
