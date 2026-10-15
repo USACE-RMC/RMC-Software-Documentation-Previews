@@ -1,0 +1,331 @@
+{
+  "figures": {
+    "bep-screening-fig-1": {
+      "figNumber": 1,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "06-event-tree.mdx",
+      "src": "/event-trees/images/backward-erosion-piping.png",
+      "caption": "Backward erosion piping event tree from the Typical Event Tree Database."
+    }
+  },
+  "tables": {
+    "bep-screening-table-1": {
+      "tableNumber": 1,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "02-model-overview.mdx"
+    },
+    "bep-screening-table-2": {
+      "tableNumber": 2,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "03-input-parameters.mdx"
+    },
+    "bep-screening-table-3": {
+      "tableNumber": 3,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "03-input-parameters.mdx"
+    },
+    "bep-screening-table-4": {
+      "tableNumber": 4,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "03-input-parameters.mdx"
+    },
+    "bep-screening-table-5": {
+      "tableNumber": 5,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "03-input-parameters.mdx"
+    },
+    "bep-screening-table-6": {
+      "tableNumber": 6,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "03-input-parameters.mdx"
+    },
+    "bep-screening-table-7": {
+      "tableNumber": 7,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "03-input-parameters.mdx"
+    },
+    "bep-screening-table-8": {
+      "tableNumber": 8,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "03-input-parameters.mdx"
+    },
+    "bep-screening-table-9": {
+      "tableNumber": 9,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "03-input-parameters.mdx"
+    },
+    "bep-screening-table-10": {
+      "tableNumber": 10,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "03-input-parameters.mdx"
+    },
+    "bep-screening-table-11": {
+      "tableNumber": 11,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "03-input-parameters.mdx"
+    },
+    "bep-screening-table-12": {
+      "tableNumber": 12,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "03-input-parameters.mdx"
+    },
+    "bep-screening-table-13": {
+      "tableNumber": 13,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "03-input-parameters.mdx"
+    },
+    "bep-screening-table-14": {
+      "tableNumber": 14,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "03-input-parameters.mdx"
+    },
+    "bep-screening-table-15": {
+      "tableNumber": 15,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "04-flaw-assessment.mdx"
+    },
+    "bep-screening-table-16": {
+      "tableNumber": 16,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "04-flaw-assessment.mdx"
+    },
+    "bep-screening-table-17": {
+      "tableNumber": 17,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "04-flaw-assessment.mdx"
+    },
+    "bep-screening-table-18": {
+      "tableNumber": 18,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "04-flaw-assessment.mdx"
+    },
+    "bep-screening-table-19": {
+      "tableNumber": 19,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "05-hydraulic-loading-and-seepage-paths.mdx"
+    },
+    "bep-screening-table-20": {
+      "tableNumber": 20,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "06-event-tree.mdx"
+    },
+    "bep-screening-table-21": {
+      "tableNumber": 21,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "06-event-tree.mdx"
+    },
+    "bep-screening-table-22": {
+      "tableNumber": 22,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "07-delegated-models.mdx"
+    },
+    "bep-screening-table-23": {
+      "tableNumber": 23,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "08-assumptions-and-limitations.mdx"
+    },
+    "bep-screening-table-24": {
+      "tableNumber": 24,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "09-output-and-interpretation.mdx"
+    },
+    "bep-screening-table-25": {
+      "tableNumber": 25,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "09-output-and-interpretation.mdx"
+    }
+  },
+  "equations": {
+    "bep-screening-eq-1": {
+      "equationNumber": 1,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "04-flaw-assessment.mdx"
+    },
+    "bep-screening-eq-2": {
+      "equationNumber": 2,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "04-flaw-assessment.mdx"
+    },
+    "bep-screening-eq-3": {
+      "equationNumber": 3,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "04-flaw-assessment.mdx"
+    },
+    "bep-screening-eq-4": {
+      "equationNumber": 4,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "05-hydraulic-loading-and-seepage-paths.mdx"
+    },
+    "bep-screening-eq-5": {
+      "equationNumber": 5,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "05-hydraulic-loading-and-seepage-paths.mdx"
+    },
+    "bep-screening-eq-6": {
+      "equationNumber": 6,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "05-hydraulic-loading-and-seepage-paths.mdx"
+    },
+    "bep-screening-eq-7": {
+      "equationNumber": 7,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "05-hydraulic-loading-and-seepage-paths.mdx"
+    },
+    "bep-screening-eq-8": {
+      "equationNumber": 8,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "05-hydraulic-loading-and-seepage-paths.mdx"
+    },
+    "bep-screening-eq-9": {
+      "equationNumber": 9,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "05-hydraulic-loading-and-seepage-paths.mdx"
+    },
+    "bep-screening-eq-10": {
+      "equationNumber": 10,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "06-event-tree.mdx"
+    },
+    "bep-screening-eq-11": {
+      "equationNumber": 11,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "06-event-tree.mdx"
+    },
+    "bep-screening-eq-12": {
+      "equationNumber": 12,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "06-event-tree.mdx"
+    },
+    "bep-screening-eq-13": {
+      "equationNumber": 13,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "06-event-tree.mdx"
+    },
+    "bep-screening-eq-14": {
+      "equationNumber": 14,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "06-event-tree.mdx"
+    },
+    "bep-screening-eq-15": {
+      "equationNumber": 15,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "07-delegated-models.mdx"
+    },
+    "bep-screening-eq-16": {
+      "equationNumber": 16,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "07-delegated-models.mdx"
+    },
+    "bep-screening-eq-17": {
+      "equationNumber": 17,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "07-delegated-models.mdx"
+    },
+    "bep-screening-eq-18": {
+      "equationNumber": 18,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "07-delegated-models.mdx"
+    },
+    "bep-screening-eq-19": {
+      "equationNumber": 19,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "07-delegated-models.mdx"
+    },
+    "bep-screening-eq-20": {
+      "equationNumber": 20,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "07-delegated-models.mdx"
+    },
+    "bep-screening-eq-21": {
+      "equationNumber": 21,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "07-delegated-models.mdx"
+    },
+    "bep-screening-eq-22": {
+      "equationNumber": 22,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "07-delegated-models.mdx"
+    },
+    "bep-screening-eq-23": {
+      "equationNumber": 23,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "07-delegated-models.mdx"
+    }
+  },
+  "citations": {
+    "USACE1956": {
+      "citationNumber": 1,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "05-hydraulic-loading-and-seepage-paths.mdx"
+    },
+    "Fell2024": {
+      "citationNumber": 2,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "06-event-tree.mdx"
+    },
+    "Schmertmann2000": {
+      "citationNumber": 3,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "07-delegated-models.mdx"
+    },
+    "vanBeek2015": {
+      "citationNumber": 4,
+      "parentDocId": "system-response-backward-erosion-piping-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/backward-erosion-piping-screening/v1.0",
+      "docId": "07-delegated-models.mdx"
+    }
+  },
+  "videos": {}
+}
