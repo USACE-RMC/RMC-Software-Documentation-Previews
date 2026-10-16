@@ -1,0 +1,136 @@
+{
+  "figures": {},
+  "tables": {
+    "cle-freezing-screening-table-1": {
+      "tableNumber": 1,
+      "parentDocId": "system-response-cle-freezing-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/cle-freezing-screening/v1.0",
+      "docId": "02-model-overview.mdx"
+    },
+    "cle-freezing-screening-table-2": {
+      "tableNumber": 2,
+      "parentDocId": "system-response-cle-freezing-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/cle-freezing-screening/v1.0",
+      "docId": "03-input-parameters.mdx"
+    },
+    "cle-freezing-screening-table-3": {
+      "tableNumber": 3,
+      "parentDocId": "system-response-cle-freezing-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/cle-freezing-screening/v1.0",
+      "docId": "03-input-parameters.mdx"
+    },
+    "cle-freezing-screening-table-4": {
+      "tableNumber": 4,
+      "parentDocId": "system-response-cle-freezing-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/cle-freezing-screening/v1.0",
+      "docId": "04-flaw-assessment.mdx"
+    },
+    "cle-freezing-screening-table-5": {
+      "tableNumber": 5,
+      "parentDocId": "system-response-cle-freezing-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/cle-freezing-screening/v1.0",
+      "docId": "04-flaw-assessment.mdx"
+    },
+    "cle-freezing-screening-table-6": {
+      "tableNumber": 6,
+      "parentDocId": "system-response-cle-freezing-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/cle-freezing-screening/v1.0",
+      "docId": "04-flaw-assessment.mdx"
+    },
+    "cle-freezing-screening-table-7": {
+      "tableNumber": 7,
+      "parentDocId": "system-response-cle-freezing-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/cle-freezing-screening/v1.0",
+      "docId": "04-flaw-assessment.mdx"
+    },
+    "cle-freezing-screening-table-8": {
+      "tableNumber": 8,
+      "parentDocId": "system-response-cle-freezing-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/cle-freezing-screening/v1.0",
+      "docId": "04-flaw-assessment.mdx"
+    },
+    "cle-freezing-screening-table-9": {
+      "tableNumber": 9,
+      "parentDocId": "system-response-cle-freezing-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/cle-freezing-screening/v1.0",
+      "docId": "04-flaw-assessment.mdx"
+    },
+    "cle-freezing-screening-table-10": {
+      "tableNumber": 10,
+      "parentDocId": "system-response-cle-freezing-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/cle-freezing-screening/v1.0",
+      "docId": "05-event-tree.mdx"
+    },
+    "cle-freezing-screening-table-11": {
+      "tableNumber": 11,
+      "parentDocId": "system-response-cle-freezing-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/cle-freezing-screening/v1.0",
+      "docId": "05-event-tree.mdx"
+    }
+  },
+  "equations": {
+    "cle-freezing-screening-eq-1": {
+      "equationNumber": 1,
+      "parentDocId": "system-response-cle-freezing-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/cle-freezing-screening/v1.0",
+      "docId": "04-flaw-assessment.mdx"
+    },
+    "cle-freezing-screening-eq-2": {
+      "equationNumber": 2,
+      "parentDocId": "system-response-cle-freezing-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/cle-freezing-screening/v1.0",
+      "docId": "04-flaw-assessment.mdx"
+    },
+    "cle-freezing-screening-eq-3": {
+      "equationNumber": 3,
+      "parentDocId": "system-response-cle-freezing-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/cle-freezing-screening/v1.0",
+      "docId": "04-flaw-assessment.mdx"
+    },
+    "cle-freezing-screening-eq-4": {
+      "equationNumber": 4,
+      "parentDocId": "system-response-cle-freezing-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/cle-freezing-screening/v1.0",
+      "docId": "04-flaw-assessment.mdx"
+    },
+    "cle-freezing-screening-eq-5": {
+      "equationNumber": 5,
+      "parentDocId": "system-response-cle-freezing-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/cle-freezing-screening/v1.0",
+      "docId": "04-flaw-assessment.mdx"
+    },
+    "cle-freezing-screening-eq-6": {
+      "equationNumber": 6,
+      "parentDocId": "system-response-cle-freezing-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/cle-freezing-screening/v1.0",
+      "docId": "05-event-tree.mdx"
+    },
+    "cle-freezing-screening-eq-7": {
+      "equationNumber": 7,
+      "parentDocId": "system-response-cle-freezing-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/cle-freezing-screening/v1.0",
+      "docId": "05-event-tree.mdx"
+    },
+    "cle-freezing-screening-eq-8": {
+      "equationNumber": 8,
+      "parentDocId": "system-response-cle-freezing-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/cle-freezing-screening/v1.0",
+      "docId": "05-event-tree.mdx"
+    },
+    "cle-freezing-screening-eq-9": {
+      "equationNumber": 9,
+      "parentDocId": "system-response-cle-freezing-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/cle-freezing-screening/v1.0",
+      "docId": "05-event-tree.mdx"
+    }
+  },
+  "citations": {
+    "Fell2024": {
+      "citationNumber": 1,
+      "parentDocId": "system-response-cle-freezing-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/cle-freezing-screening/v1.0",
+      "docId": "02-model-overview.mdx"
+    }
+  },
+  "videos": {}
+}
