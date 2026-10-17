@@ -1,0 +1,109 @@
+{
+  "figures": {
+    "dst-users-guide-fig-dashboard-my-screenings": {
+      "figNumber": 1,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "03-getting-started.mdx",
+      "src": "figures/web-applications/dst/users-guide/v1.0/figures/dashboard-my-screenings.png",
+      "caption": "The Dashboard, My Screenings tab."
+    },
+    "dst-users-guide-fig-dashboard-row-actions": {
+      "figNumber": 2,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "03-getting-started.mdx",
+      "src": "figures/web-applications/dst/users-guide/v1.0/figures/dashboard-row-actions.png",
+      "caption": "Row actions for a screening the user facilitates."
+    },
+    "dst-users-guide-fig-dashboard-empty-state": {
+      "figNumber": 3,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "03-getting-started.mdx",
+      "src": "figures/web-applications/dst/users-guide/v1.0/figures/dashboard-empty-state.png",
+      "caption": "The My Screenings tab before the user has any screenings."
+    },
+    "dst-users-guide-fig-dashboard-my-reviews": {
+      "figNumber": 4,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "03-getting-started.mdx",
+      "src": "figures/web-applications/dst/users-guide/v1.0/figures/dashboard-my-reviews.png",
+      "caption": "The My Reviews tab."
+    },
+    "dst-users-guide-fig-dashboard-search-catalog": {
+      "figNumber": 5,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "03-getting-started.mdx",
+      "src": "figures/web-applications/dst/users-guide/v1.0/figures/dashboard-search-catalog.png",
+      "caption": "The Search Catalog tab."
+    },
+    "dst-users-guide-fig-dashboard-new-screening": {
+      "figNumber": 6,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "03-getting-started.mdx",
+      "src": "figures/web-applications/dst/users-guide/v1.0/figures/dashboard-new-screening.png",
+      "caption": "The New Screening dialog, completed for a dam entered manually."
+    },
+    "dst-users-guide-fig-dashboard-new-screening-dam-search": {
+      "figNumber": 7,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "03-getting-started.mdx",
+      "src": "figures/web-applications/dst/users-guide/v1.0/figures/dashboard-new-screening-dam-search.png",
+      "caption": "Dam search with no NID match."
+    },
+    "dst-users-guide-fig-dashboard-manage-team": {
+      "figNumber": 8,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "03-getting-started.mdx",
+      "src": "figures/web-applications/dst/users-guide/v1.0/figures/dashboard-manage-team.png",
+      "caption": "The Manage Team dialog."
+    }
+  },
+  "tables": {
+    "dst-users-guide-table-dashboard-regions": {
+      "tableNumber": 1,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "03-getting-started.mdx"
+    },
+    "dst-users-guide-table-dashboard-columns": {
+      "tableNumber": 2,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "03-getting-started.mdx"
+    },
+    "dst-users-guide-table-dashboard-row-actions": {
+      "tableNumber": 3,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "03-getting-started.mdx"
+    },
+    "dst-users-guide-table-dashboard-review-columns": {
+      "tableNumber": 4,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "03-getting-started.mdx"
+    },
+    "dst-users-guide-table-dashboard-catalog-regions": {
+      "tableNumber": 5,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "03-getting-started.mdx"
+    },
+    "dst-users-guide-table-new-screening-fields": {
+      "tableNumber": 6,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "03-getting-started.mdx"
+    }
+  },
+  "equations": {},
+  "citations": {},
+  "videos": {}
+}
