@@ -40,24 +40,48 @@
       "src": "figures/web-applications/dst/users-guide/v1.0/figures/dashboard-search-catalog.png",
       "caption": "The Search Catalog tab."
     },
-    "dst-users-guide-fig-dashboard-new-screening": {
+    "dst-users-guide-fig-dashboard-new-screening-nid": {
       "figNumber": 6,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "03-getting-started.mdx",
+      "src": "figures/web-applications/dst/users-guide/v1.0/figures/dashboard-new-screening-nid.png",
+      "caption": "The New Screening dialog, completed for a USACE dam from the NID."
+    },
+    "dst-users-guide-fig-dashboard-new-screening-testing": {
+      "figNumber": 7,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "03-getting-started.mdx",
+      "src": "figures/web-applications/dst/users-guide/v1.0/figures/dashboard-new-screening-testing.png",
+      "caption": "A Testing screening with a vertical datum entered as Other."
+    },
+    "dst-users-guide-fig-dashboard-new-screening-dam-search": {
+      "figNumber": 8,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "03-getting-started.mdx",
+      "src": "figures/web-applications/dst/users-guide/v1.0/figures/dashboard-new-screening-dam-search.png",
+      "caption": "Dam search showing an NID match."
+    },
+    "dst-users-guide-fig-dashboard-new-screening": {
+      "figNumber": 9,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "03-getting-started.mdx",
       "src": "figures/web-applications/dst/users-guide/v1.0/figures/dashboard-new-screening.png",
       "caption": "The New Screening dialog, completed for a dam entered manually."
     },
-    "dst-users-guide-fig-dashboard-new-screening-dam-search": {
-      "figNumber": 7,
+    "dst-users-guide-fig-dashboard-new-screening-usace-facilitator": {
+      "figNumber": 10,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "03-getting-started.mdx",
-      "src": "figures/web-applications/dst/users-guide/v1.0/figures/dashboard-new-screening-dam-search.png",
-      "caption": "Dam search with no NID match."
+      "src": "figures/web-applications/dst/users-guide/v1.0/figures/dashboard-new-screening-usace-facilitator.png",
+      "caption": "Choosing a USACE Facilitator for a USACE dam."
     },
     "dst-users-guide-fig-dashboard-manage-team": {
-      "figNumber": 8,
+      "figNumber": 11,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "03-getting-started.mdx",
