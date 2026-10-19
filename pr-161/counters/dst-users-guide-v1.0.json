@@ -95,6 +95,46 @@
       "docId": "03-getting-started.mdx",
       "src": "figures/web-applications/dst/users-guide/v1.0/figures/dashboard-manage-team.png",
       "caption": "The Manage Team dialog."
+    },
+    "dst-users-guide-fig-working-in-dst-screening-page": {
+      "figNumber": 13,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "04-working-in-dst.mdx",
+      "src": "figures/web-applications/dst/users-guide/v1.0/figures/working-in-dst-screening-page.png",
+      "caption": "A screening page."
+    },
+    "dst-users-guide-fig-working-in-dst-messages-and-grid": {
+      "figNumber": 14,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "04-working-in-dst.mdx",
+      "src": "figures/web-applications/dst/users-guide/v1.0/figures/working-in-dst-messages-and-grid.png",
+      "caption": "Message banner and a highlighted table cell on the Operational Data page."
+    },
+    "dst-users-guide-fig-working-in-dst-verification": {
+      "figNumber": 15,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "04-working-in-dst.mdx",
+      "src": "figures/web-applications/dst/users-guide/v1.0/figures/working-in-dst-verification.png",
+      "caption": "The Operational Data page before (top) and after (bottom) verification."
+    },
+    "dst-users-guide-fig-working-in-dst-submission-readiness": {
+      "figNumber": 16,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "04-working-in-dst.mdx",
+      "src": "figures/web-applications/dst/users-guide/v1.0/figures/working-in-dst-submission-readiness.png",
+      "caption": "The Submission Readiness page."
+    },
+    "dst-users-guide-fig-working-in-dst-input-lock": {
+      "figNumber": 17,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "04-working-in-dst.mdx",
+      "src": "figures/web-applications/dst/users-guide/v1.0/figures/working-in-dst-input-lock.png",
+      "caption": "A screening with its inputs locked for review."
     }
   },
   "tables": {
@@ -139,6 +179,30 @@
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "03-getting-started.mdx"
+    },
+    "dst-users-guide-table-working-in-dst-screening-page": {
+      "tableNumber": 8,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "04-working-in-dst.mdx"
+    },
+    "dst-users-guide-table-working-in-dst-messages": {
+      "tableNumber": 9,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "04-working-in-dst.mdx"
+    },
+    "dst-users-guide-table-working-in-dst-submission-readiness": {
+      "tableNumber": 10,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "04-working-in-dst.mdx"
+    },
+    "dst-users-guide-table-working-in-dst-input-lock": {
+      "tableNumber": 11,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "04-working-in-dst.mdx"
     }
   },
   "equations": {},
