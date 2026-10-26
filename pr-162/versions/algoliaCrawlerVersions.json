@@ -1,7 +1,7 @@
 {
   "startUrls": [
     "https://usace-rmc.github.io/RMC-Software-Documentation/docs/toolbox-technical-manuals/internal-erosion-suite/backward-erosion-piping-initiation/v1.0/preface",
-    "https://usace-rmc.github.io/RMC-Software-Documentation/docs/toolbox-technical-manuals/internal-erosion-suite/backward-erosion-piping-progression/v1.0/preface",
+    "https://usace-rmc.github.io/RMC-Software-Documentation/docs/toolbox-technical-manuals/internal-erosion-suite/backward-erosion-piping-progression/v1.1/preface",
     "https://usace-rmc.github.io/RMC-Software-Documentation/docs/toolbox-technical-manuals/internal-erosion-suite/breach/v1.1/preface",
     "https://usace-rmc.github.io/RMC-Software-Documentation/docs/toolbox-technical-manuals/internal-erosion-suite/concentrated-leak-erosion-initiation/v1.0/preface",
     "https://usace-rmc.github.io/RMC-Software-Documentation/docs/toolbox-technical-manuals/internal-erosion-suite/erodibility-parameters/v1.0/preface",
@@ -25,7 +25,7 @@
   ],
   "discoveryPatterns": [
     "https://usace-rmc.github.io/RMC-Software-Documentation/docs/toolbox-technical-manuals/internal-erosion-suite/backward-erosion-piping-initiation/v1.0/**",
-    "https://usace-rmc.github.io/RMC-Software-Documentation/docs/toolbox-technical-manuals/internal-erosion-suite/backward-erosion-piping-progression/v1.0/**",
+    "https://usace-rmc.github.io/RMC-Software-Documentation/docs/toolbox-technical-manuals/internal-erosion-suite/backward-erosion-piping-progression/v1.1/**",
     "https://usace-rmc.github.io/RMC-Software-Documentation/docs/toolbox-technical-manuals/internal-erosion-suite/breach/v1.1/**",
     "https://usace-rmc.github.io/RMC-Software-Documentation/docs/toolbox-technical-manuals/internal-erosion-suite/concentrated-leak-erosion-initiation/v1.0/**",
     "https://usace-rmc.github.io/RMC-Software-Documentation/docs/toolbox-technical-manuals/internal-erosion-suite/erodibility-parameters/v1.0/**",
@@ -48,6 +48,7 @@
     "https://usace-rmc.github.io/RMC-Software-Documentation/docs/desktop-applications/rmc-totalrisk/verification-report/v1.0/**"
   ],
   "exclusionPatterns": [
+    "https://usace-rmc.github.io/RMC-Software-Documentation/docs/toolbox-technical-manuals/internal-erosion-suite/backward-erosion-piping-progression/v1.0/**",
     "https://usace-rmc.github.io/RMC-Software-Documentation/docs/toolbox-technical-manuals/internal-erosion-suite/breach/v1.0/**",
     "https://usace-rmc.github.io/RMC-Software-Documentation/docs/toolbox-technical-manuals/risk-calculations-suite/typical-event-tree-database/v1.4/**",
     "https://usace-rmc.github.io/RMC-Software-Documentation/docs/toolbox-technical-manuals/risk-calculations-suite/typical-event-tree-database/v1.3/**",
