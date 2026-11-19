@@ -104,32 +104,16 @@
       "src": "figures/web-applications/dst/users-guide/v1.0/figures/working-in-dst-screening-page.png",
       "caption": "A screening page."
     },
-    "dst-users-guide-fig-working-in-dst-messages-and-grid": {
-      "figNumber": 14,
-      "parentDocId": "dst-users-guide-v1.0",
-      "parentDocPath": "web-applications/dst/users-guide/v1.0",
-      "docId": "04-working-in-dst.mdx",
-      "src": "figures/web-applications/dst/users-guide/v1.0/figures/working-in-dst-messages-and-grid.png",
-      "caption": "Message banner and a highlighted table cell on the Operational Data page."
-    },
     "dst-users-guide-fig-working-in-dst-verification": {
-      "figNumber": 15,
+      "figNumber": 14,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "04-working-in-dst.mdx",
       "src": "figures/web-applications/dst/users-guide/v1.0/figures/working-in-dst-verification.png",
       "caption": "The Operational Data page before (top) and after (bottom) verification."
     },
-    "dst-users-guide-fig-working-in-dst-submission-readiness": {
-      "figNumber": 16,
-      "parentDocId": "dst-users-guide-v1.0",
-      "parentDocPath": "web-applications/dst/users-guide/v1.0",
-      "docId": "04-working-in-dst.mdx",
-      "src": "figures/web-applications/dst/users-guide/v1.0/figures/working-in-dst-submission-readiness.png",
-      "caption": "The Submission Readiness page."
-    },
     "dst-users-guide-fig-working-in-dst-input-lock": {
-      "figNumber": 17,
+      "figNumber": 15,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "04-working-in-dst.mdx",
@@ -144,62 +128,68 @@
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "02-introduction.mdx"
     },
-    "dst-users-guide-table-dashboard-regions": {
+    "dst-users-guide-table-account-request-fields": {
       "tableNumber": 2,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "03-getting-started.mdx"
     },
-    "dst-users-guide-table-dashboard-columns": {
+    "dst-users-guide-table-dashboard-regions": {
       "tableNumber": 3,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "03-getting-started.mdx"
     },
-    "dst-users-guide-table-dashboard-row-actions": {
+    "dst-users-guide-table-dashboard-columns": {
       "tableNumber": 4,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "03-getting-started.mdx"
     },
-    "dst-users-guide-table-dashboard-review-columns": {
+    "dst-users-guide-table-dashboard-row-actions": {
       "tableNumber": 5,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "03-getting-started.mdx"
     },
-    "dst-users-guide-table-dashboard-catalog-regions": {
+    "dst-users-guide-table-dashboard-review-columns": {
       "tableNumber": 6,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "03-getting-started.mdx"
     },
-    "dst-users-guide-table-new-screening-fields": {
+    "dst-users-guide-table-dashboard-catalog-regions": {
       "tableNumber": 7,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "03-getting-started.mdx"
     },
-    "dst-users-guide-table-working-in-dst-screening-page": {
+    "dst-users-guide-table-new-screening-fields": {
       "tableNumber": 8,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
-      "docId": "04-working-in-dst.mdx"
+      "docId": "03-getting-started.mdx"
     },
-    "dst-users-guide-table-working-in-dst-messages": {
+    "dst-users-guide-table-working-in-dst-screening-page": {
       "tableNumber": 9,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "04-working-in-dst.mdx"
     },
-    "dst-users-guide-table-working-in-dst-submission-readiness": {
+    "dst-users-guide-table-working-in-dst-messages": {
       "tableNumber": 10,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "04-working-in-dst.mdx"
     },
-    "dst-users-guide-table-working-in-dst-input-lock": {
+    "dst-users-guide-table-working-in-dst-readiness-statuses": {
       "tableNumber": 11,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "04-working-in-dst.mdx"
+    },
+    "dst-users-guide-table-working-in-dst-input-lock": {
+      "tableNumber": 12,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "04-working-in-dst.mdx"
