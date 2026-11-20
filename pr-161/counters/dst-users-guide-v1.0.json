@@ -776,8 +776,24 @@
       "src": "figures/web-applications/dst/users-guide/v1.0/figures/inundation-analysis-page.png",
       "caption": "The Inundation Analysis page with the dam boundary conditions open."
     },
-    "dst-users-guide-fig-inundation-analysis-simulation-details": {
+    "dst-users-guide-fig-inundation-analysis-inflow-tabular": {
       "figNumber": 98,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "402-inundation-analysis.mdx",
+      "src": "figures/web-applications/dst/users-guide/v1.0/figures/inundation-analysis-inflow-tabular.png",
+      "caption": "The Inflow tab with a tabular hydrograph for each loading level."
+    },
+    "dst-users-guide-fig-inundation-analysis-inflow-trapezoidal": {
+      "figNumber": 99,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "402-inundation-analysis.mdx",
+      "src": "figures/web-applications/dst/users-guide/v1.0/figures/inundation-analysis-inflow-trapezoidal.png",
+      "caption": "The Inflow tab with a trapezoidal hydrograph for each loading level."
+    },
+    "dst-users-guide-fig-inundation-analysis-simulation-details": {
+      "figNumber": 100,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "402-inundation-analysis.mdx",
@@ -785,7 +801,7 @@
       "caption": "The simulation details of a completed analysis."
     },
     "dst-users-guide-fig-inundation-analysis-dam-results": {
-      "figNumber": 99,
+      "figNumber": 101,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "402-inundation-analysis.mdx",
@@ -793,7 +809,7 @@
       "caption": "The dam results of an analysis."
     },
     "dst-users-guide-fig-consequence-data-page": {
-      "figNumber": 100,
+      "figNumber": 102,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "403-consequence-data.mdx",
@@ -801,7 +817,7 @@
       "caption": "The Consequence Data page with the structure inventory selected."
     },
     "dst-users-guide-fig-consequence-analysis-page": {
-      "figNumber": 101,
+      "figNumber": 103,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "404-consequence-analysis.mdx",
@@ -809,7 +825,7 @@
       "caption": "The Consequence Analysis page."
     },
     "dst-users-guide-fig-results-map-page": {
-      "figNumber": 102,
+      "figNumber": 104,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "405-results-map.mdx",
@@ -817,7 +833,7 @@
       "caption": "The Results Map page with a structure selected."
     },
     "dst-users-guide-fig-results-data-page": {
-      "figNumber": 103,
+      "figNumber": 105,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "406-results-data.mdx",
@@ -825,7 +841,7 @@
       "caption": "The Results Data page for one function and loading level."
     },
     "dst-users-guide-fig-risk-setup-page": {
-      "figNumber": 104,
+      "figNumber": 106,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "501-risk-analysis-setup.mdx",
@@ -833,7 +849,7 @@
       "caption": "The Risk Analysis Setup page."
     },
     "dst-users-guide-fig-risk-results-page": {
-      "figNumber": 105,
+      "figNumber": 107,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "502-risk-analysis-results.mdx",
@@ -841,7 +857,7 @@
       "caption": "The Risk Analysis Results page."
     },
     "dst-users-guide-fig-major-findings-risk-characterization": {
-      "figNumber": 106,
+      "figNumber": 108,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "600-major-findings.mdx",
@@ -849,7 +865,7 @@
       "caption": "The Risk Characterization page with the What to consider prompts open."
     },
     "dst-users-guide-fig-review-levels-page": {
-      "figNumber": 107,
+      "figNumber": 109,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "700-review.mdx",
@@ -857,7 +873,7 @@
       "caption": "The Review Levels page during the Level 1 review period."
     },
     "dst-users-guide-fig-review-level-comments": {
-      "figNumber": 108,
+      "figNumber": 110,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "700-review.mdx",
@@ -865,7 +881,7 @@
       "caption": "A review level during its review period, seen by the review lead."
     },
     "dst-users-guide-fig-review-new-comment-panel": {
-      "figNumber": 109,
+      "figNumber": 111,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "700-review.mdx",
@@ -873,7 +889,7 @@
       "caption": "The New Comment panel."
     },
     "dst-users-guide-fig-review-resolution-strip": {
-      "figNumber": 110,
+      "figNumber": 112,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "700-review.mdx",
@@ -881,7 +897,7 @@
       "caption": "The resolution strip, ready for backcheck."
     },
     "dst-users-guide-fig-review-comment-team-response": {
-      "figNumber": 111,
+      "figNumber": 113,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "700-review.mdx",
@@ -889,7 +905,7 @@
       "caption": "Responding to a comment."
     },
     "dst-users-guide-fig-review-comment-backcheck": {
-      "figNumber": 112,
+      "figNumber": 114,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "700-review.mdx",
@@ -897,7 +913,7 @@
       "caption": "Backchecking a team response."
     },
     "dst-users-guide-fig-review-decision-panel": {
-      "figNumber": 113,
+      "figNumber": 115,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "700-review.mdx",
@@ -2148,134 +2164,146 @@
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "402-inundation-analysis.mdx"
     },
-    "dst-users-guide-table-consequences-consequence-data-regions": {
+    "dst-users-guide-table-consequences-inflow-regions": {
       "tableNumber": 208,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
-      "docId": "403-consequence-data.mdx"
+      "docId": "402-inundation-analysis.mdx"
     },
-    "dst-users-guide-table-consequences-structure": {
+    "dst-users-guide-table-consequences-trapezoidal-hydrograph": {
       "tableNumber": 209,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
-      "docId": "403-consequence-data.mdx"
+      "docId": "402-inundation-analysis.mdx"
     },
-    "dst-users-guide-table-consequences-emergency-response": {
+    "dst-users-guide-table-consequences-consequence-data-regions": {
       "tableNumber": 210,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "403-consequence-data.mdx"
     },
-    "dst-users-guide-table-consequences-consequence-analysis-regions": {
+    "dst-users-guide-table-consequences-structure": {
       "tableNumber": 211,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "403-consequence-data.mdx"
+    },
+    "dst-users-guide-table-consequences-emergency-response": {
+      "tableNumber": 212,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "403-consequence-data.mdx"
+    },
+    "dst-users-guide-table-consequences-consequence-analysis-regions": {
+      "tableNumber": 213,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "404-consequence-analysis.mdx"
     },
     "dst-users-guide-table-consequences-hazard": {
-      "tableNumber": 212,
+      "tableNumber": 214,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "404-consequence-analysis.mdx"
     },
     "dst-users-guide-table-consequences-results-map-regions": {
-      "tableNumber": 213,
+      "tableNumber": 215,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "405-results-map.mdx"
     },
     "dst-users-guide-table-consequences-results-data-regions": {
-      "tableNumber": 214,
+      "tableNumber": 216,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "406-results-data.mdx"
     },
     "dst-users-guide-table-consequences-function-rows": {
-      "tableNumber": 215,
+      "tableNumber": 217,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "406-results-data.mdx"
     },
     "dst-users-guide-table-risk-setup-regions": {
-      "tableNumber": 216,
+      "tableNumber": 218,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "501-risk-analysis-setup.mdx"
     },
     "dst-users-guide-table-risk-setup-columns": {
-      "tableNumber": 217,
+      "tableNumber": 219,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "501-risk-analysis-setup.mdx"
     },
     "dst-users-guide-table-risk-results-regions": {
-      "tableNumber": 218,
+      "tableNumber": 220,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "502-risk-analysis-results.mdx"
     },
     "dst-users-guide-table-risk-components": {
-      "tableNumber": 219,
+      "tableNumber": 221,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "502-risk-analysis-results.mdx"
     },
     "dst-users-guide-table-major-findings-regions": {
-      "tableNumber": 220,
+      "tableNumber": 222,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "600-major-findings.mdx"
     },
     "dst-users-guide-table-major-findings-messages": {
-      "tableNumber": 221,
+      "tableNumber": 223,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "600-major-findings.mdx"
     },
     "dst-users-guide-table-review-roles": {
-      "tableNumber": 222,
-      "parentDocId": "dst-users-guide-v1.0",
-      "parentDocPath": "web-applications/dst/users-guide/v1.0",
-      "docId": "700-review.mdx"
-    },
-    "dst-users-guide-table-review-phases": {
-      "tableNumber": 223,
-      "parentDocId": "dst-users-guide-v1.0",
-      "parentDocPath": "web-applications/dst/users-guide/v1.0",
-      "docId": "700-review.mdx"
-    },
-    "dst-users-guide-table-review-levels-regions": {
       "tableNumber": 224,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "700-review.mdx"
     },
-    "dst-users-guide-table-review-level-regions": {
+    "dst-users-guide-table-review-phases": {
       "tableNumber": 225,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "700-review.mdx"
     },
-    "dst-users-guide-table-review-level-filters": {
+    "dst-users-guide-table-review-levels-regions": {
       "tableNumber": 226,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "700-review.mdx"
     },
-    "dst-users-guide-table-review-comment-statuses": {
+    "dst-users-guide-table-review-level-regions": {
       "tableNumber": 227,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "700-review.mdx"
     },
-    "dst-users-guide-table-review-new-comment-inputs": {
+    "dst-users-guide-table-review-level-filters": {
       "tableNumber": 228,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "700-review.mdx"
     },
-    "dst-users-guide-table-review-response-inputs": {
+    "dst-users-guide-table-review-comment-statuses": {
       "tableNumber": 229,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "700-review.mdx"
+    },
+    "dst-users-guide-table-review-new-comment-inputs": {
+      "tableNumber": 230,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "700-review.mdx"
+    },
+    "dst-users-guide-table-review-response-inputs": {
+      "tableNumber": 231,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "700-review.mdx"
@@ -2295,5 +2323,18 @@
   },
   "equations": {},
   "citations": {},
-  "videos": {}
+  "videos": {
+    "dst-users-guide-video-inflow-hydrograph-type": {
+      "videoNumber": 1,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "402-inundation-analysis.mdx"
+    },
+    "dst-users-guide-video-inflow-trapezoid-edit": {
+      "videoNumber": 2,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "402-inundation-analysis.mdx"
+    }
+  }
 }
