@@ -2354,98 +2354,140 @@
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "040-working-in-dst.mdx"
     },
-    "dst-users-guide-video-overview-map-style": {
+    "dst-users-guide-video-overview-set-location": {
       "videoNumber": 6,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "101-overview.mdx"
     },
-    "dst-users-guide-video-dam-data-reset-to-nid": {
+    "dst-users-guide-video-overview-map-style": {
       "videoNumber": 7,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
-      "docId": "102-dam-data.mdx"
+      "docId": "101-overview.mdx"
     },
-    "dst-users-guide-video-dam-data-refetch": {
+    "dst-users-guide-video-dam-data-nid-edit": {
       "videoNumber": 8,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "102-dam-data.mdx"
     },
-    "dst-users-guide-video-operational-data-markers": {
+    "dst-users-guide-video-dam-data-reset-to-nid": {
       "videoNumber": 9,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "102-dam-data.mdx"
+    },
+    "dst-users-guide-video-dam-data-refetch": {
+      "videoNumber": 10,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "102-dam-data.mdx"
+    },
+    "dst-users-guide-video-operational-data-markers": {
+      "videoNumber": 11,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "103-operational-data.mdx"
     },
     "dst-users-guide-video-operational-data-tailwater": {
-      "videoNumber": 10,
+      "videoNumber": 12,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "103-operational-data.mdx"
     },
+    "dst-users-guide-video-screening-management-reorder": {
+      "videoNumber": 13,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "104-screening-management.mdx"
+    },
     "dst-users-guide-video-screening-activity-runs": {
-      "videoNumber": 11,
+      "videoNumber": 14,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "105-screening-activity.mdx"
     },
     "dst-users-guide-video-documents-views": {
-      "videoNumber": 12,
+      "videoNumber": 15,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "150-documents.mdx"
     },
     "dst-users-guide-video-stage-duration-zoom": {
-      "videoNumber": 13,
+      "videoNumber": 16,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "202-stage-duration.mdx"
     },
+    "dst-users-guide-video-stage-duration-trim": {
+      "videoNumber": 17,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "202-stage-duration.mdx"
+    },
+    "dst-users-guide-video-seismic-hazard-filters": {
+      "videoNumber": 18,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "203-seismic-hazard.mdx"
+    },
     "dst-users-guide-video-cross-section-editor-canvas": {
-      "videoNumber": 14,
+      "videoNumber": 19,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "311-cross-section-editors.mdx"
     },
     "dst-users-guide-video-failure-mode-evaluation-curves": {
-      "videoNumber": 15,
+      "videoNumber": 20,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "340-failure-mode-evaluation.mdx"
     },
+    "dst-users-guide-video-system-response-revert": {
+      "videoNumber": 21,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "343-system-response.mdx"
+    },
+    "dst-users-guide-video-event-tree-slider": {
+      "videoNumber": 22,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "344-event-trees.mdx"
+    },
     "dst-users-guide-video-inflow-hydrograph-type": {
-      "videoNumber": 16,
+      "videoNumber": 23,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "402-inundation-analysis.mdx"
     },
     "dst-users-guide-video-inflow-trapezoid-edit": {
-      "videoNumber": 17,
+      "videoNumber": 24,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "402-inundation-analysis.mdx"
     },
     "dst-users-guide-video-inundation-analysis-depth-player": {
-      "videoNumber": 18,
+      "videoNumber": 25,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "402-inundation-analysis.mdx"
     },
     "dst-users-guide-video-inundation-analysis-dam-results": {
-      "videoNumber": 19,
+      "videoNumber": 26,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "402-inundation-analysis.mdx"
     },
     "dst-users-guide-video-results-map-levels": {
-      "videoNumber": 20,
+      "videoNumber": 27,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "405-results-map.mdx"
     },
     "dst-users-guide-video-risk-results-toggles": {
-      "videoNumber": 21,
+      "videoNumber": 28,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "502-risk-analysis-results.mdx"
