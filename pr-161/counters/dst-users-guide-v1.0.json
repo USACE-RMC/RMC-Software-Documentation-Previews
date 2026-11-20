@@ -424,8 +424,16 @@
       "src": "figures/web-applications/dst/users-guide/v1.0/figures/failure-mode-selection-page.png",
       "caption": "The Failure Mode Selection page."
     },
-    "dst-users-guide-fig-failure-mode-evaluation-page": {
+    "dst-users-guide-fig-failure-mode-selection-review-change": {
       "figNumber": 54,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "10-failure-mode-screening-and-selection.mdx",
+      "src": "figures/web-applications/dst/users-guide/v1.0/figures/failure-mode-selection-review-change.png",
+      "caption": "Reviewing a changed recommendation."
+    },
+    "dst-users-guide-fig-failure-mode-evaluation-page": {
+      "figNumber": 55,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "11-failure-mode-evaluation.mdx",
@@ -433,7 +441,7 @@
       "caption": "The Failure Mode Evaluation page."
     },
     "dst-users-guide-fig-failure-mode-evaluation-curves-menu": {
-      "figNumber": 55,
+      "figNumber": 56,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "11-failure-mode-evaluation.mdx",
@@ -441,15 +449,15 @@
       "caption": "The Curves list of the System Response Preview."
     },
     "dst-users-guide-fig-failure-mode-evaluation-row-menu": {
-      "figNumber": 56,
+      "figNumber": 57,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "11-failure-mode-evaluation.mdx",
       "src": "figures/web-applications/dst/users-guide/v1.0/figures/failure-mode-evaluation-row-menu.png",
-      "caption": "The row menu of a location."
+      "caption": "The row menu of a failure mode with one location."
     },
     "dst-users-guide-fig-failure-mode-evaluation-toolbar": {
-      "figNumber": 57,
+      "figNumber": 58,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "11-failure-mode-evaluation.mdx",
@@ -457,15 +465,15 @@
       "caption": "The heading and toolbar of a failure mode page."
     },
     "dst-users-guide-fig-failure-mode-evaluation-overrides": {
-      "figNumber": 58,
+      "figNumber": 59,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "11-failure-mode-evaluation.mdx",
       "src": "figures/web-applications/dst/users-guide/v1.0/figures/failure-mode-evaluation-overrides.png",
-      "caption": "An overrides section with two parameters overridden."
+      "caption": "An overrides section with one parameter overridden."
     },
     "dst-users-guide-fig-failure-mode-evaluation-summary-tray": {
-      "figNumber": 59,
+      "figNumber": 60,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "11-failure-mode-evaluation.mdx",
@@ -473,7 +481,7 @@
       "caption": "The Failure mode summary tray at half height."
     },
     "dst-users-guide-fig-failure-mode-evaluation-system-response": {
-      "figNumber": 60,
+      "figNumber": 61,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "11-failure-mode-evaluation.mdx",
@@ -481,7 +489,7 @@
       "caption": "The System Response section of a failure mode page."
     },
     "dst-users-guide-fig-failure-mode-evaluation-nodal-cards": {
-      "figNumber": 61,
+      "figNumber": 62,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "11-failure-mode-evaluation.mdx",
@@ -489,15 +497,15 @@
       "caption": "The node cards of the Nodal System Response section."
     },
     "dst-users-guide-fig-failure-mode-evaluation-nodal-detail": {
-      "figNumber": 62,
+      "figNumber": 63,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "11-failure-mode-evaluation.mdx",
       "src": "figures/web-applications/dst/users-guide/v1.0/figures/failure-mode-evaluation-nodal-detail.png",
-      "caption": "The dialog of a revised node."
+      "caption": "The dialog of a node."
     },
     "dst-users-guide-fig-failure-mode-evaluation-event-tree-stages": {
-      "figNumber": 63,
+      "figNumber": 64,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "11-failure-mode-evaluation.mdx",
@@ -505,7 +513,7 @@
       "caption": "The Stages to evaluate section."
     },
     "dst-users-guide-fig-failure-mode-evaluation-event-tree": {
-      "figNumber": 64,
+      "figNumber": 65,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "11-failure-mode-evaluation.mdx",
@@ -513,7 +521,7 @@
       "caption": "The Event tree evaluation section with a node selected."
     },
     "dst-users-guide-fig-failure-mode-evaluation-event-tree-results": {
-      "figNumber": 65,
+      "figNumber": 66,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "11-failure-mode-evaluation.mdx",
@@ -521,7 +529,7 @@
       "caption": "The system response of an event tree with two branches."
     },
     "dst-users-guide-fig-pfm-01-page": {
-      "figNumber": 66,
+      "figNumber": 67,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "12-pfm-01.mdx",
@@ -529,7 +537,7 @@
       "caption": "The PFM-01 page."
     },
     "dst-users-guide-fig-pfm-02-page": {
-      "figNumber": 67,
+      "figNumber": 68,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "13-pfm-02.mdx",
@@ -537,7 +545,7 @@
       "caption": "The PFM-02 page."
     },
     "dst-users-guide-fig-pfm-03-page": {
-      "figNumber": 68,
+      "figNumber": 69,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "14-pfm-03.mdx",
@@ -545,7 +553,7 @@
       "caption": "The PFM-03 page."
     },
     "dst-users-guide-fig-pfm-04-page": {
-      "figNumber": 69,
+      "figNumber": 70,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "15-pfm-04.mdx",
@@ -553,7 +561,7 @@
       "caption": "The PFM-04 page."
     },
     "dst-users-guide-fig-pfm-05-page": {
-      "figNumber": 70,
+      "figNumber": 71,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "16-pfm-05.mdx",
@@ -561,7 +569,7 @@
       "caption": "The PFM-05 page."
     },
     "dst-users-guide-fig-pfm-06-page": {
-      "figNumber": 71,
+      "figNumber": 72,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "17-pfm-06.mdx",
@@ -569,7 +577,7 @@
       "caption": "The PFM-06 page with DST Based SRP selected."
     },
     "dst-users-guide-fig-pfm-07-page": {
-      "figNumber": 72,
+      "figNumber": 73,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "18-pfm-07.mdx",
@@ -577,7 +585,7 @@
       "caption": "The PFM-07 page with User Defined SRP selected."
     },
     "dst-users-guide-fig-pfm-08-page": {
-      "figNumber": 73,
+      "figNumber": 74,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "19-pfm-08.mdx",
@@ -585,7 +593,7 @@
       "caption": "The PFM-08 page with DST Based SRP selected."
     },
     "dst-users-guide-fig-pfm-09-page": {
-      "figNumber": 74,
+      "figNumber": 75,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "20-pfm-09.mdx",
@@ -593,15 +601,15 @@
       "caption": "The PFM-09 page with DST Based SRP selected."
     },
     "dst-users-guide-fig-pfm-10-page": {
-      "figNumber": 75,
+      "figNumber": 76,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "21-pfm-10.mdx",
       "src": "figures/web-applications/dst/users-guide/v1.0/figures/pfm-10-page.png",
-      "caption": "The PFM-10 page with User Defined SRP selected."
+      "caption": "The top of the PFM-10 page."
     },
     "dst-users-guide-fig-pfm-10-floating-schematic": {
-      "figNumber": 76,
+      "figNumber": 77,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "21-pfm-10.mdx",
@@ -609,15 +617,15 @@
       "caption": "The floating seepage system schematic with its readings."
     },
     "dst-users-guide-fig-pfm-10-system-response": {
-      "figNumber": 77,
+      "figNumber": 78,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "21-pfm-10.mdx",
       "src": "figures/web-applications/dst/users-guide/v1.0/figures/pfm-10-system-response.png",
-      "caption": "The PFM-10 user-defined SRP grid and chart."
+      "caption": "The PFM-10 system response with toe and daylight pathways and a revised node."
     },
     "dst-users-guide-fig-pfm-11-page": {
-      "figNumber": 78,
+      "figNumber": 79,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "22-pfm-11.mdx",
@@ -625,7 +633,7 @@
       "caption": "The PFM-11 page."
     },
     "dst-users-guide-fig-pfm-11-event-tree": {
-      "figNumber": 79,
+      "figNumber": 80,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "22-pfm-11.mdx",
@@ -633,7 +641,7 @@
       "caption": "The PFM-11 event tree with Node 2 selected."
     },
     "dst-users-guide-fig-pfm-12-page": {
-      "figNumber": 80,
+      "figNumber": 81,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "23-pfm-12.mdx",
@@ -641,7 +649,7 @@
       "caption": "The PFM-12 page."
     },
     "dst-users-guide-fig-pfm-12-event-tree": {
-      "figNumber": 81,
+      "figNumber": 82,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "23-pfm-12.mdx",
@@ -649,7 +657,7 @@
       "caption": "The PFM-12 event tree with Node 2 selected."
     },
     "dst-users-guide-fig-pfm-13-page": {
-      "figNumber": 82,
+      "figNumber": 83,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "24-pfm-13.mdx",
@@ -657,7 +665,7 @@
       "caption": "The PFM-13 page."
     },
     "dst-users-guide-fig-pfm-13-event-tree": {
-      "figNumber": 83,
+      "figNumber": 84,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "24-pfm-13.mdx",
@@ -665,7 +673,7 @@
       "caption": "The PFM-13 event tree with Node 2 selected."
     },
     "dst-users-guide-fig-pfm-17-page": {
-      "figNumber": 84,
+      "figNumber": 85,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "25-pfm-17.mdx",
@@ -673,7 +681,7 @@
       "caption": "The PFM-17 page."
     },
     "dst-users-guide-fig-pfm-17-event-tree": {
-      "figNumber": 85,
+      "figNumber": 86,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "25-pfm-17.mdx",
@@ -681,7 +689,7 @@
       "caption": "The PFM-17 event tree with Node 2 selected."
     },
     "dst-users-guide-fig-pfm-18-page": {
-      "figNumber": 86,
+      "figNumber": 87,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "26-pfm-18.mdx",
@@ -689,7 +697,7 @@
       "caption": "The PFM-18 page."
     },
     "dst-users-guide-fig-pfm-18-event-tree": {
-      "figNumber": 87,
+      "figNumber": 88,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "26-pfm-18.mdx",
@@ -697,7 +705,7 @@
       "caption": "The PFM-18 event tree with Node 2b selected."
     },
     "dst-users-guide-fig-pfm-20-page": {
-      "figNumber": 88,
+      "figNumber": 89,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "27-pfm-20.mdx",
@@ -705,7 +713,7 @@
       "caption": "The PFM-20 page."
     },
     "dst-users-guide-fig-pfm-20-event-tree": {
-      "figNumber": 89,
+      "figNumber": 90,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "27-pfm-20.mdx",
@@ -713,7 +721,7 @@
       "caption": "The PFM-20 event tree with Node 3b selected."
     },
     "dst-users-guide-fig-pfm-21-page": {
-      "figNumber": 90,
+      "figNumber": 91,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "28-pfm-21.mdx",
@@ -721,7 +729,7 @@
       "caption": "The PFM-21 page for a gated spillway monolith."
     },
     "dst-users-guide-fig-pfm-22-page": {
-      "figNumber": 91,
+      "figNumber": 92,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "29-pfm-22.mdx",
@@ -729,7 +737,7 @@
       "caption": "The PFM-22 page."
     },
     "dst-users-guide-fig-pfm-22-event-tree": {
-      "figNumber": 92,
+      "figNumber": 93,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "29-pfm-22.mdx",
@@ -737,7 +745,7 @@
       "caption": "The PFM-22 event tree with Node 2 selected."
     },
     "dst-users-guide-fig-pfm-23-page": {
-      "figNumber": 93,
+      "figNumber": 94,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "30-pfm-23.mdx",
@@ -745,7 +753,7 @@
       "caption": "The PFM-23 page."
     },
     "dst-users-guide-fig-pfm-23-event-tree": {
-      "figNumber": 94,
+      "figNumber": 95,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "30-pfm-23.mdx",
@@ -753,7 +761,7 @@
       "caption": "The PFM-23 event tree with Node 2 selected."
     },
     "dst-users-guide-fig-inundation-geometry-page": {
-      "figNumber": 95,
+      "figNumber": 96,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "31-consequences.mdx",
@@ -761,7 +769,7 @@
       "caption": "The Inundation Geometry page with the dam centerline selected."
     },
     "dst-users-guide-fig-inundation-analysis-page": {
-      "figNumber": 96,
+      "figNumber": 97,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "31-consequences.mdx",
@@ -769,7 +777,7 @@
       "caption": "The Inundation Analysis page with the dam boundary conditions open."
     },
     "dst-users-guide-fig-inundation-analysis-simulation-details": {
-      "figNumber": 97,
+      "figNumber": 98,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "31-consequences.mdx",
@@ -777,7 +785,7 @@
       "caption": "The simulation details of a completed analysis."
     },
     "dst-users-guide-fig-inundation-analysis-dam-results": {
-      "figNumber": 98,
+      "figNumber": 99,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "31-consequences.mdx",
@@ -785,7 +793,7 @@
       "caption": "The dam results of an analysis."
     },
     "dst-users-guide-fig-consequence-data-page": {
-      "figNumber": 99,
+      "figNumber": 100,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "31-consequences.mdx",
@@ -793,7 +801,7 @@
       "caption": "The Consequence Data page with the structure inventory selected."
     },
     "dst-users-guide-fig-consequence-analysis-page": {
-      "figNumber": 100,
+      "figNumber": 101,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "31-consequences.mdx",
@@ -801,7 +809,7 @@
       "caption": "The Consequence Analysis page."
     },
     "dst-users-guide-fig-results-map-page": {
-      "figNumber": 101,
+      "figNumber": 102,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "31-consequences.mdx",
@@ -809,7 +817,7 @@
       "caption": "The Results Map page with a structure selected."
     },
     "dst-users-guide-fig-results-data-page": {
-      "figNumber": 102,
+      "figNumber": 103,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "31-consequences.mdx",
@@ -817,7 +825,7 @@
       "caption": "The Results Data page for one function and loading level."
     },
     "dst-users-guide-fig-risk-setup-page": {
-      "figNumber": 103,
+      "figNumber": 104,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "32-risk-analysis.mdx",
@@ -825,7 +833,7 @@
       "caption": "The Risk Analysis Setup page."
     },
     "dst-users-guide-fig-risk-results-page": {
-      "figNumber": 104,
+      "figNumber": 105,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "32-risk-analysis.mdx",
@@ -833,7 +841,7 @@
       "caption": "The Risk Analysis Results page."
     },
     "dst-users-guide-fig-major-findings-risk-characterization": {
-      "figNumber": 105,
+      "figNumber": 106,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "33-major-findings.mdx",
@@ -841,7 +849,7 @@
       "caption": "The Risk Characterization page with the What to consider prompts open."
     },
     "dst-users-guide-fig-review-levels-page": {
-      "figNumber": 106,
+      "figNumber": 107,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "34-review.mdx",
@@ -849,7 +857,7 @@
       "caption": "The Review Levels page during the Level 1 review period."
     },
     "dst-users-guide-fig-review-level-comments": {
-      "figNumber": 107,
+      "figNumber": 108,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "34-review.mdx",
@@ -857,7 +865,7 @@
       "caption": "A review level during its review period, seen by the review lead."
     },
     "dst-users-guide-fig-review-new-comment-panel": {
-      "figNumber": 108,
+      "figNumber": 109,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "34-review.mdx",
@@ -865,7 +873,7 @@
       "caption": "The New Comment panel."
     },
     "dst-users-guide-fig-review-resolution-strip": {
-      "figNumber": 109,
+      "figNumber": 110,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "34-review.mdx",
@@ -873,7 +881,7 @@
       "caption": "The resolution strip, ready for backcheck."
     },
     "dst-users-guide-fig-review-comment-team-response": {
-      "figNumber": 110,
+      "figNumber": 111,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "34-review.mdx",
@@ -881,7 +889,7 @@
       "caption": "Responding to a comment."
     },
     "dst-users-guide-fig-review-comment-backcheck": {
-      "figNumber": 111,
+      "figNumber": 112,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "34-review.mdx",
@@ -889,7 +897,7 @@
       "caption": "Backchecking a team response."
     },
     "dst-users-guide-fig-review-decision-panel": {
-      "figNumber": 112,
+      "figNumber": 113,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "34-review.mdx",
