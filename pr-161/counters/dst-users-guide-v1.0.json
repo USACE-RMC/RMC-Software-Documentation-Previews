@@ -2402,17 +2402,53 @@
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "202-stage-duration.mdx"
     },
-    "dst-users-guide-video-inflow-hydrograph-type": {
+    "dst-users-guide-video-cross-section-editor-canvas": {
       "videoNumber": 14,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "311-cross-section-editors.mdx"
+    },
+    "dst-users-guide-video-failure-mode-evaluation-curves": {
+      "videoNumber": 15,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "340-failure-mode-evaluation.mdx"
+    },
+    "dst-users-guide-video-inflow-hydrograph-type": {
+      "videoNumber": 16,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "402-inundation-analysis.mdx"
     },
     "dst-users-guide-video-inflow-trapezoid-edit": {
-      "videoNumber": 15,
+      "videoNumber": 17,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "402-inundation-analysis.mdx"
+    },
+    "dst-users-guide-video-inundation-analysis-depth-player": {
+      "videoNumber": 18,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "402-inundation-analysis.mdx"
+    },
+    "dst-users-guide-video-inundation-analysis-dam-results": {
+      "videoNumber": 19,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "402-inundation-analysis.mdx"
+    },
+    "dst-users-guide-video-results-map-levels": {
+      "videoNumber": 20,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "405-results-map.mdx"
+    },
+    "dst-users-guide-video-risk-results-toggles": {
+      "videoNumber": 21,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "502-risk-analysis-results.mdx"
     }
   }
 }
