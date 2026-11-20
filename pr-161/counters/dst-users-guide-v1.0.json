@@ -2354,14 +2354,62 @@
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "040-working-in-dst.mdx"
     },
-    "dst-users-guide-video-inflow-hydrograph-type": {
+    "dst-users-guide-video-overview-map-style": {
       "videoNumber": 6,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "101-overview.mdx"
+    },
+    "dst-users-guide-video-dam-data-reset-to-nid": {
+      "videoNumber": 7,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "102-dam-data.mdx"
+    },
+    "dst-users-guide-video-dam-data-refetch": {
+      "videoNumber": 8,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "102-dam-data.mdx"
+    },
+    "dst-users-guide-video-operational-data-markers": {
+      "videoNumber": 9,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "103-operational-data.mdx"
+    },
+    "dst-users-guide-video-operational-data-tailwater": {
+      "videoNumber": 10,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "103-operational-data.mdx"
+    },
+    "dst-users-guide-video-screening-activity-runs": {
+      "videoNumber": 11,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "105-screening-activity.mdx"
+    },
+    "dst-users-guide-video-documents-views": {
+      "videoNumber": 12,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "150-documents.mdx"
+    },
+    "dst-users-guide-video-stage-duration-zoom": {
+      "videoNumber": 13,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "202-stage-duration.mdx"
+    },
+    "dst-users-guide-video-inflow-hydrograph-type": {
+      "videoNumber": 14,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "402-inundation-analysis.mdx"
     },
     "dst-users-guide-video-inflow-trapezoid-edit": {
-      "videoNumber": 7,
+      "videoNumber": 15,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "402-inundation-analysis.mdx"
