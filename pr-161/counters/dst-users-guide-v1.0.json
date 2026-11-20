@@ -2324,14 +2324,44 @@
   "equations": {},
   "citations": {},
   "videos": {
-    "dst-users-guide-video-inflow-hydrograph-type": {
+    "dst-users-guide-video-getting-started-dam-search": {
       "videoNumber": 1,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "030-getting-started.mdx"
+    },
+    "dst-users-guide-video-working-in-dst-chart-zoom": {
+      "videoNumber": 2,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "040-working-in-dst.mdx"
+    },
+    "dst-users-guide-video-working-in-dst-summary-tray": {
+      "videoNumber": 3,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "040-working-in-dst.mdx"
+    },
+    "dst-users-guide-video-working-in-dst-verification": {
+      "videoNumber": 4,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "040-working-in-dst.mdx"
+    },
+    "dst-users-guide-video-working-in-dst-feedback": {
+      "videoNumber": 5,
+      "parentDocId": "dst-users-guide-v1.0",
+      "parentDocPath": "web-applications/dst/users-guide/v1.0",
+      "docId": "040-working-in-dst.mdx"
+    },
+    "dst-users-guide-video-inflow-hydrograph-type": {
+      "videoNumber": 6,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "402-inundation-analysis.mdx"
     },
     "dst-users-guide-video-inflow-trapezoid-edit": {
-      "videoNumber": 2,
+      "videoNumber": 7,
       "parentDocId": "dst-users-guide-v1.0",
       "parentDocPath": "web-applications/dst/users-guide/v1.0",
       "docId": "402-inundation-analysis.mdx"
