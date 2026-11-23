@@ -23,13 +23,13 @@
       "tableNumber": 4,
       "parentDocId": "system-response-cle-wall-cliff-compaction-screening-v1.0",
       "parentDocPath": "web-applications/system-response/cle-wall-cliff-compaction-screening/v1.0",
-      "docId": "04-flaw-assessment.mdx"
+      "docId": "03-input-parameters.mdx"
     },
     "cle-wall-cliff-compaction-screening-table-5": {
       "tableNumber": 5,
       "parentDocId": "system-response-cle-wall-cliff-compaction-screening-v1.0",
       "parentDocPath": "web-applications/system-response/cle-wall-cliff-compaction-screening/v1.0",
-      "docId": "04-flaw-assessment.mdx"
+      "docId": "03-input-parameters.mdx"
     },
     "cle-wall-cliff-compaction-screening-table-6": {
       "tableNumber": 6,
@@ -39,6 +39,12 @@
     },
     "cle-wall-cliff-compaction-screening-table-7": {
       "tableNumber": 7,
+      "parentDocId": "system-response-cle-wall-cliff-compaction-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/cle-wall-cliff-compaction-screening/v1.0",
+      "docId": "04-flaw-assessment.mdx"
+    },
+    "cle-wall-cliff-compaction-screening-table-8": {
+      "tableNumber": 8,
       "parentDocId": "system-response-cle-wall-cliff-compaction-screening-v1.0",
       "parentDocPath": "web-applications/system-response/cle-wall-cliff-compaction-screening/v1.0",
       "docId": "05-event-tree.mdx"
@@ -56,24 +62,6 @@
       "parentDocId": "system-response-cle-wall-cliff-compaction-screening-v1.0",
       "parentDocPath": "web-applications/system-response/cle-wall-cliff-compaction-screening/v1.0",
       "docId": "04-flaw-assessment.mdx"
-    },
-    "cle-wall-cliff-compaction-screening-eq-3": {
-      "equationNumber": 3,
-      "parentDocId": "system-response-cle-wall-cliff-compaction-screening-v1.0",
-      "parentDocPath": "web-applications/system-response/cle-wall-cliff-compaction-screening/v1.0",
-      "docId": "04-flaw-assessment.mdx"
-    },
-    "cle-wall-cliff-compaction-screening-eq-4": {
-      "equationNumber": 4,
-      "parentDocId": "system-response-cle-wall-cliff-compaction-screening-v1.0",
-      "parentDocPath": "web-applications/system-response/cle-wall-cliff-compaction-screening/v1.0",
-      "docId": "05-event-tree.mdx"
-    },
-    "cle-wall-cliff-compaction-screening-eq-5": {
-      "equationNumber": 5,
-      "parentDocId": "system-response-cle-wall-cliff-compaction-screening-v1.0",
-      "parentDocPath": "web-applications/system-response/cle-wall-cliff-compaction-screening/v1.0",
-      "docId": "05-event-tree.mdx"
     }
   },
   "citations": {
