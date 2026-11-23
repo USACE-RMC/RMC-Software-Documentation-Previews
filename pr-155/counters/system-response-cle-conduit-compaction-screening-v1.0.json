@@ -29,7 +29,7 @@
       "tableNumber": 5,
       "parentDocId": "system-response-cle-conduit-compaction-screening-v1.0",
       "parentDocPath": "web-applications/system-response/cle-conduit-compaction-screening/v1.0",
-      "docId": "04-flaw-assessment.mdx"
+      "docId": "03-input-parameters.mdx"
     },
     "cle-conduit-compaction-screening-table-6": {
       "tableNumber": 6,
@@ -65,6 +65,12 @@
       "tableNumber": 11,
       "parentDocId": "system-response-cle-conduit-compaction-screening-v1.0",
       "parentDocPath": "web-applications/system-response/cle-conduit-compaction-screening/v1.0",
+      "docId": "04-flaw-assessment.mdx"
+    },
+    "cle-conduit-compaction-screening-table-12": {
+      "tableNumber": 12,
+      "parentDocId": "system-response-cle-conduit-compaction-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/cle-conduit-compaction-screening/v1.0",
       "docId": "05-event-tree.mdx"
     }
   },
@@ -77,30 +83,6 @@
     },
     "cle-conduit-compaction-screening-eq-2": {
       "equationNumber": 2,
-      "parentDocId": "system-response-cle-conduit-compaction-screening-v1.0",
-      "parentDocPath": "web-applications/system-response/cle-conduit-compaction-screening/v1.0",
-      "docId": "04-flaw-assessment.mdx"
-    },
-    "cle-conduit-compaction-screening-eq-3": {
-      "equationNumber": 3,
-      "parentDocId": "system-response-cle-conduit-compaction-screening-v1.0",
-      "parentDocPath": "web-applications/system-response/cle-conduit-compaction-screening/v1.0",
-      "docId": "04-flaw-assessment.mdx"
-    },
-    "cle-conduit-compaction-screening-eq-4": {
-      "equationNumber": 4,
-      "parentDocId": "system-response-cle-conduit-compaction-screening-v1.0",
-      "parentDocPath": "web-applications/system-response/cle-conduit-compaction-screening/v1.0",
-      "docId": "05-event-tree.mdx"
-    },
-    "cle-conduit-compaction-screening-eq-5": {
-      "equationNumber": 5,
-      "parentDocId": "system-response-cle-conduit-compaction-screening-v1.0",
-      "parentDocPath": "web-applications/system-response/cle-conduit-compaction-screening/v1.0",
-      "docId": "05-event-tree.mdx"
-    },
-    "cle-conduit-compaction-screening-eq-6": {
-      "equationNumber": 6,
       "parentDocId": "system-response-cle-conduit-compaction-screening-v1.0",
       "parentDocPath": "web-applications/system-response/cle-conduit-compaction-screening/v1.0",
       "docId": "05-event-tree.mdx"
