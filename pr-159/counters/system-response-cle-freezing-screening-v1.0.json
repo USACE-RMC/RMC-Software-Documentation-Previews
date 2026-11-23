@@ -92,36 +92,6 @@
       "parentDocId": "system-response-cle-freezing-screening-v1.0",
       "parentDocPath": "web-applications/system-response/cle-freezing-screening/v1.0",
       "docId": "04-flaw-assessment.mdx"
-    },
-    "cle-freezing-screening-eq-5": {
-      "equationNumber": 5,
-      "parentDocId": "system-response-cle-freezing-screening-v1.0",
-      "parentDocPath": "web-applications/system-response/cle-freezing-screening/v1.0",
-      "docId": "04-flaw-assessment.mdx"
-    },
-    "cle-freezing-screening-eq-6": {
-      "equationNumber": 6,
-      "parentDocId": "system-response-cle-freezing-screening-v1.0",
-      "parentDocPath": "web-applications/system-response/cle-freezing-screening/v1.0",
-      "docId": "05-event-tree.mdx"
-    },
-    "cle-freezing-screening-eq-7": {
-      "equationNumber": 7,
-      "parentDocId": "system-response-cle-freezing-screening-v1.0",
-      "parentDocPath": "web-applications/system-response/cle-freezing-screening/v1.0",
-      "docId": "05-event-tree.mdx"
-    },
-    "cle-freezing-screening-eq-8": {
-      "equationNumber": 8,
-      "parentDocId": "system-response-cle-freezing-screening-v1.0",
-      "parentDocPath": "web-applications/system-response/cle-freezing-screening/v1.0",
-      "docId": "05-event-tree.mdx"
-    },
-    "cle-freezing-screening-eq-9": {
-      "equationNumber": 9,
-      "parentDocId": "system-response-cle-freezing-screening-v1.0",
-      "parentDocPath": "web-applications/system-response/cle-freezing-screening/v1.0",
-      "docId": "05-event-tree.mdx"
     }
   },
   "citations": {
