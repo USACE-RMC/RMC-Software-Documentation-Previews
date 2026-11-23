@@ -49,19 +49,19 @@
       "parentDocPath": "web-applications/system-response/cle-desiccation-screening/v1.0",
       "docId": "05-crack-depth.mdx"
     },
-    "cle-desiccation-screening-table-11": {
+    "cle-desiccation-screening-table-9": {
       "tableNumber": 9,
       "parentDocId": "system-response-cle-desiccation-screening-v1.0",
       "parentDocPath": "web-applications/system-response/cle-desiccation-screening/v1.0",
       "docId": "05-crack-depth.mdx"
     },
-    "cle-desiccation-screening-table-9": {
+    "cle-desiccation-screening-table-10": {
       "tableNumber": 10,
       "parentDocId": "system-response-cle-desiccation-screening-v1.0",
       "parentDocPath": "web-applications/system-response/cle-desiccation-screening/v1.0",
       "docId": "06-event-tree.mdx"
     },
-    "cle-desiccation-screening-table-10": {
+    "cle-desiccation-screening-table-11": {
       "tableNumber": 11,
       "parentDocId": "system-response-cle-desiccation-screening-v1.0",
       "parentDocPath": "web-applications/system-response/cle-desiccation-screening/v1.0",
@@ -86,24 +86,6 @@
       "parentDocId": "system-response-cle-desiccation-screening-v1.0",
       "parentDocPath": "web-applications/system-response/cle-desiccation-screening/v1.0",
       "docId": "04-flaw-probability.mdx"
-    },
-    "cle-desiccation-screening-eq-4": {
-      "equationNumber": 4,
-      "parentDocId": "system-response-cle-desiccation-screening-v1.0",
-      "parentDocPath": "web-applications/system-response/cle-desiccation-screening/v1.0",
-      "docId": "05-crack-depth.mdx"
-    },
-    "cle-desiccation-screening-eq-5": {
-      "equationNumber": 5,
-      "parentDocId": "system-response-cle-desiccation-screening-v1.0",
-      "parentDocPath": "web-applications/system-response/cle-desiccation-screening/v1.0",
-      "docId": "06-event-tree.mdx"
-    },
-    "cle-desiccation-screening-eq-6": {
-      "equationNumber": 6,
-      "parentDocId": "system-response-cle-desiccation-screening-v1.0",
-      "parentDocPath": "web-applications/system-response/cle-desiccation-screening/v1.0",
-      "docId": "06-event-tree.mdx"
     }
   },
   "citations": {
