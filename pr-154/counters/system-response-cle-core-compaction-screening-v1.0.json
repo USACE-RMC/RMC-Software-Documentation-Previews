@@ -17,13 +17,13 @@
       "tableNumber": 3,
       "parentDocId": "system-response-cle-core-compaction-screening-v1.0",
       "parentDocPath": "web-applications/system-response/cle-core-compaction-screening/v1.0",
-      "docId": "04-flaw-assessment.mdx"
+      "docId": "03-input-parameters.mdx"
     },
     "cle-core-compaction-screening-table-4": {
       "tableNumber": 4,
       "parentDocId": "system-response-cle-core-compaction-screening-v1.0",
       "parentDocPath": "web-applications/system-response/cle-core-compaction-screening/v1.0",
-      "docId": "04-flaw-assessment.mdx"
+      "docId": "03-input-parameters.mdx"
     },
     "cle-core-compaction-screening-table-5": {
       "tableNumber": 5,
@@ -45,6 +45,18 @@
     },
     "cle-core-compaction-screening-table-8": {
       "tableNumber": 8,
+      "parentDocId": "system-response-cle-core-compaction-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/cle-core-compaction-screening/v1.0",
+      "docId": "04-flaw-assessment.mdx"
+    },
+    "cle-core-compaction-screening-table-9": {
+      "tableNumber": 9,
+      "parentDocId": "system-response-cle-core-compaction-screening-v1.0",
+      "parentDocPath": "web-applications/system-response/cle-core-compaction-screening/v1.0",
+      "docId": "04-flaw-assessment.mdx"
+    },
+    "cle-core-compaction-screening-table-10": {
+      "tableNumber": 10,
       "parentDocId": "system-response-cle-core-compaction-screening-v1.0",
       "parentDocPath": "web-applications/system-response/cle-core-compaction-screening/v1.0",
       "docId": "05-event-tree.mdx"
@@ -74,30 +86,6 @@
       "parentDocId": "system-response-cle-core-compaction-screening-v1.0",
       "parentDocPath": "web-applications/system-response/cle-core-compaction-screening/v1.0",
       "docId": "04-flaw-assessment.mdx"
-    },
-    "cle-core-compaction-screening-eq-5": {
-      "equationNumber": 5,
-      "parentDocId": "system-response-cle-core-compaction-screening-v1.0",
-      "parentDocPath": "web-applications/system-response/cle-core-compaction-screening/v1.0",
-      "docId": "04-flaw-assessment.mdx"
-    },
-    "cle-core-compaction-screening-eq-6": {
-      "equationNumber": 6,
-      "parentDocId": "system-response-cle-core-compaction-screening-v1.0",
-      "parentDocPath": "web-applications/system-response/cle-core-compaction-screening/v1.0",
-      "docId": "04-flaw-assessment.mdx"
-    },
-    "cle-core-compaction-screening-eq-7": {
-      "equationNumber": 7,
-      "parentDocId": "system-response-cle-core-compaction-screening-v1.0",
-      "parentDocPath": "web-applications/system-response/cle-core-compaction-screening/v1.0",
-      "docId": "05-event-tree.mdx"
-    },
-    "cle-core-compaction-screening-eq-8": {
-      "equationNumber": 8,
-      "parentDocId": "system-response-cle-core-compaction-screening-v1.0",
-      "parentDocPath": "web-applications/system-response/cle-core-compaction-screening/v1.0",
-      "docId": "05-event-tree.mdx"
     }
   },
   "citations": {
