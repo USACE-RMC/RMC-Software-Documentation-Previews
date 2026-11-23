@@ -128,24 +128,6 @@
       "parentDocId": "system-response-cle-wall-cliff-settlement-screening-v1.0",
       "parentDocPath": "web-applications/system-response/cle-wall-cliff-settlement-screening/v1.0",
       "docId": "04-flaw-assessment.mdx"
-    },
-    "cle-wall-cliff-settlement-screening-eq-8": {
-      "equationNumber": 8,
-      "parentDocId": "system-response-cle-wall-cliff-settlement-screening-v1.0",
-      "parentDocPath": "web-applications/system-response/cle-wall-cliff-settlement-screening/v1.0",
-      "docId": "04-flaw-assessment.mdx"
-    },
-    "cle-wall-cliff-settlement-screening-eq-9": {
-      "equationNumber": 9,
-      "parentDocId": "system-response-cle-wall-cliff-settlement-screening-v1.0",
-      "parentDocPath": "web-applications/system-response/cle-wall-cliff-settlement-screening/v1.0",
-      "docId": "05-event-tree.mdx"
-    },
-    "cle-wall-cliff-settlement-screening-eq-10": {
-      "equationNumber": 10,
-      "parentDocId": "system-response-cle-wall-cliff-settlement-screening-v1.0",
-      "parentDocPath": "web-applications/system-response/cle-wall-cliff-settlement-screening/v1.0",
-      "docId": "05-event-tree.mdx"
     }
   },
   "citations": {
